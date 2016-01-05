@@ -1,5 +1,6 @@
 
-<?php reauire_once 'confa.php'; ?>
+<?php require_once 'confa.php'; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
