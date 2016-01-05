@@ -1,0 +1,59 @@
+<?php
+class JConfig {
+	var $offline = '0';
+	var $editor = 'tinymce';
+	var $list_limit = '20';
+	var $helpurl = '';
+	var $debug = '0';
+	var $debug_lang = '0';
+	var $sef = '0';
+	var $sef_rewrite = '0';
+	var $sef_suffix = '0';
+	var $feed_limit = '10';
+	var $feed_email = 'site';
+	var $secret = 'YELATMQkGlbnNtJM';
+	var $gzip = '0';
+	var $error_reporting = '-1';
+	var $xmlrpc_server = '0';
+	var $log_path = '/sharon.com.ua/www/logs';
+	var $tmp_path = '/sharon.com.ua/www/tmp';
+	var $live_site = '';
+	var $force_ssl = '0';
+	var $offset = '0';
+	var $caching = '1';
+	var $cachetime = '15';
+	var $cache_handler = 'file';
+	var $memcache_settings = array();
+	var $ftp_enable = '0';
+	var $ftp_host = '127.0.0.1';
+	var $ftp_port = '21';
+	var $ftp_user = 'lokom';
+	var $ftp_pass = '';
+	var $ftp_root = '/sharon.com.ua/www';
+	var $dbtype = 'mysql';
+	var $host = 'idabk.mysql.ukraine.com.ua';
+	var $user = 'idabk_sharon';
+	var $db = 'idabk_sharon';
+	var $dbprefix = 'jos_';
+	var $mailer = 'smtp';
+	var $mailfrom = 'manager@sharon.com.ua';
+	var $fromname = 'manager sharon.com.ua';
+	var $sendmail = '/usr/sbin/sendmail';
+	var $smtpauth = '1';
+	var $smtpsecure = 'ssl';
+	var $smtpport = '465';
+	var $smtpuser = 'manager@sharon.com.ua';
+	var $smtppass = 'sheron';
+	var $smtphost = 'smtp.gmail.com';
+	var $MetaAuthor = '0';
+	var $MetaTitle = '0';
+	var $lifetime = '15';
+	var $session_handler = 'database';
+	var $password = 'sukkub';
+	var $sitename = 'SharonGroup';
+	var $MetaDesc = '';
+	var $MetaKeys = '';
+	var $offline_message = 'На даний момент ведуться технічні робототи.
+Просимо вибачення за незручності';
+}
+?>
