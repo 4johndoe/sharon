@@ -1,4 +1,5 @@
 
+<?php reauire_once 'confa.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +64,7 @@ img.emoji {
 			<div class="row">
 				<div class="col-md-12">
 					<!-- logo -->
-					<a class="logo" href="http://www.sharon.com.ua/wp">Pixova</a>
+					<a class="logo" href="http://localhost/sharon">Pixova</a>
 					<!-- /logo --><!-- menu icon -->
 					<a id="nav-expander" class="pull-right" href="#"><i class="fa fa-bars fa-lg white"></i></a>
 					<!-- /menu icon -->
