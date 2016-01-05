@@ -31,16 +31,16 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='http://www.sharon.com.ua/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='pixova-lite-min-style-css'  href='http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/style.css?ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-min-css-css'  href='http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/css/animate.min.css?ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-min-css-css'  href='http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/css/font-awesome.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pixova-lite-min-style-css'  href='wp-content/themes/pixova-lite/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-min-css-css'  href='wp-content/themes/pixova-lite/layout/css/animate.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css-css'  href='wp-content/themes/pixova-lite/layout/css/font-awesome.min.css?ver=4.3.1' type='text/css' media='all' />
 <link rel='stylesheet' id='ga-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C600%2C700%7CSource+Sans+Pro%3A300%2C400%2C600%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-min-css-css'  href='http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='owlCarousel-main-css-css'  href='http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/css/owl.carousel.css?ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='owlCarousel-theme-css-css'  href='http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/css/owl.theme.css?ver=4.3.1' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.sharon.com.ua/wp/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
-<script type='text/javascript' src='http://www.sharon.com.ua/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='stylesheet' id='bootstrap-min-css-css'  href='wp-content/themes/pixova-lite/layout/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owlCarousel-main-css-css'  href='wp-content/themes/pixova-lite/layout/css/owl.carousel.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owlCarousel-theme-css-css'  href='wp-content/themes/pixova-lite/layout/css/owl.theme.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sharon.com.ua/wp/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sharon.com.ua/wp/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.3.1" />
