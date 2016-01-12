@@ -66,7 +66,7 @@ img.emoji {
 			<div class="row">
 				<div class="col-md-12">
 					<!-- logo -->
-					<a class="logo" href="http://localhost/sharon">SHARON GROUP LLC</a>
+					<a class="logo" id="sleep" href="http://localhost/sharon">SHARON GROUP LLC</a>
 					<!-- /logo -->
 					<!-- menu icon -->
 					<a id="nav-expander" class="pull-right" href="#"><i class="fa fa-bars fa-lg white"></i></a>
@@ -785,7 +785,7 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.sharon.com.ua\/wp\/wp-content\/plugins\/
 var pixova_lite_localization = {"parallax_enabled":"header_effect_enabled","animations_enabled":"animations_enabled"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/pixova-lite/layout/js/scripts.min.js?ver=1.0'></script>
+<script type='text/javascript' src='wp-content/themes/pixova-lite/layout/js/scripts.js?ver=1.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var pixova_lite_localization = {"animations_enabled":"animations_enabled"};

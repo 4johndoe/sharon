@@ -113,9 +113,11 @@
         if (viewportSize.getWidth() > 670) {
             $('#nav-expander').on('mouseenter', function() {
                 $('.main-navigation').addClass('visible');
+                document.getElementById('sleep').style.color = "white";
             });
             $('#header-wrap').on('mouseleave', function() {
                 $('.main-navigation').removeClass('visible');
+                document.getElementById('sleep').style.color = 'black';
             });
         } else if (viewportSize.getWidth() <= 670) {
             //only expand menu on click on screens smaller than 640px
