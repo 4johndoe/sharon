@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="http://www.sharon.com.ua/wp/xmlrpc.php">
+    <?php echo "<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'>"; ?>
 
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <title>SHARON GROUP LLC</title>
@@ -94,6 +95,9 @@ img.emoji {
 						<a href="http://localhost/sharon/#contact" title="Контакт">Метрическая система</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="http://localhost/sharon/#contact" title="Контакт">Партнеры &amp; клиенты</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
 						<a href="http://localhost/sharon/#contact" title="Контакт">Грузовые автомобили</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
@@ -134,6 +138,9 @@ img.emoji {
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
 					<a href="http://localhost/sharon/#contact" title="Контакт">Метрическая система</a>
+				</li>
+				<li class="menu-item menu-item-type-custom menu-item-object-custom">
+					<a href="http://localhost/sharon/#contact" title="Контакт">Партнеры &amp; клиенты</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
 					<a href="http://localhost/sharon/#contact" title="Контакт">Грузовые автомобили</a>
