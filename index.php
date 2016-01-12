@@ -156,7 +156,7 @@ img.emoji {
 <!--/Header-->
 <section id="intro" class="home-intro" >
 	<div class="parallax-bg-container">
-		<div class="parallax-bg-image" data-image-source="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/header-bg.jpg" alt="" /></div></div>
+		<div class="parallax-bg-image" data-image-source="wp-content/themes/pixova-lite/layout/images/header-bg.jpg" alt="" /></div></div>
 		<div class="container">
 			<div class="intro-content parallax-text-fade">
 				<div class="row">
