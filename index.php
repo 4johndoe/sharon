@@ -760,9 +760,9 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="text-center">
-						<p class="footer-copyright">Тема: 
-							<a href="http://www.machothemes.com/themes/pixova-lite/" target="_blank" rel="nofollow" title="Free One Page Parallax WordPress Theme">Pixova Lite</a>
-							&middot; Сделано с любовью в Macho Themes &copy; 2016. Все права защищены
+						<p class="footer-copyright"> 
+							Mеждународная транспортно-экспедиторская компания
+							&middot; <a href="<?php echo HOST; ?>" target="_blank" rel="nofollow">SHARON GROUP LLC</a> &copy; 2016. Все права защищены
 						</p>
 					</div>
 					<!--/.text-center-->
