@@ -651,7 +651,7 @@ img.emoji {
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Свяжитесь с нами<span>И мы ответим в кратчайшие сроки</span></h2>
+				<h2 class="section-heading light-section-heading">Свяжитесь с нами<span>И мы всегда с удовольствием ответим на Ваши вопросы!</span></h2>
 				<!--/.section-heading.light-section-heading-->
 			</div>
 			<!--/.text-center-->
@@ -661,15 +661,29 @@ img.emoji {
 			<div class="col-md-3">
 				<div class="mt-contact-info">
 					<h3>Адрес</h3>
-					<p class="contact-info-details address">Бейкер-стрит, 221Б, Лондон, Великобритания</p>
-					<h3>Служба поддержки</h3>
-					<p class="contact-info-details">Телефон: +444 974 525<br />E-mail:office@machothemes.com<br /></p>
+					<p class="contact-info-details address">пр. Воздухофлотcкий, 54, <br />офис 710а, Киев, Украина, 03151</p>
+					<h3>Контакты</h3>
+					<p class="contact-info-details">
+						Отдел авто логистики <br />
+						Телефон: <a href="tel:+380442392959">+38 044 239-29-59</a> <br />
+						Отдел Ж/Д логистики <br />
+						Телефон: <a href="callto:+380444518443">+38 044 451-84-43</a> <br />
+						E-mail: <a href="mailto:office@sharon.com.ua">office@sharon.com.ua</a><br />
+					</p>
+					<h3>Дирекция</h3>
+					<p class="contact-info-details">
+						Телефон: <a href="callto:+380672357781">+38 067 235-77-81</a> <br />
+						E-mail: <a href="mailto:r.gaydar@sharon.com.ua">r.gaydar@sharon.com.ua</a>
+					</p>
 					<!--/.contact-info-details-->
 				</div>
 				<!--/.mt-contact-info-->
 			</div>
 			<!--/.col-md-3-->
-			<div class="col-md-9">Контактная форма не выбрана. Откройте секцию «Настроить» → «Раздел контактов» и выберите контактную форму из выпадающего списка.</div>
+			<div class="col-md-9">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2541.944407565037!2d30.454792315345948!3d50.42350739718754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4ceb132a6039b%3A0xe56d89b1693ef02a!2sPovitroflots&#39;kyi+Ave%2C+54%2C+Kyiv!5e0!3m2!1sen!2sua!4v1452712693351" width="870" height="402" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>	
+			<!-- <div class="col-md-9">Контактная форма не выбрана. Откройте секцию «Настроить» → «Раздел контактов» и выберите контактную форму из выпадающего списка.</div> -->
 			<!--/.row-->
 		</div>
 		<!--/.col-md-9-->
