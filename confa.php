@@ -1,7 +1,7 @@
 <?php 
 
-$host = "localhost/sharon";
+DEFINE('HOST', 'http://localhost/sharon');
 
 
 
- ?>
+ ?> 

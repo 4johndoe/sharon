@@ -66,7 +66,7 @@ img.emoji {
 			<div class="row">
 				<div class="col-md-12">
 					<!-- logo -->
-					<a class="logo" id="sleep" href="http://localhost/sharon">SHARON GROUP LLC</a>
+					<a class="logo" id="sleep" href="<?php echo HOST; ?>">SHARON GROUP LLC</a>
 					<!-- /logo -->
 					<!-- menu icon -->
 					<a id="nav-expander" class="pull-right" href="#"><i class="fa fa-bars fa-lg white"></i></a>
@@ -74,37 +74,37 @@ img.emoji {
 					<!-- main navigation -->
 					<nav class="main-navigation"><ul id="menu-pixova-lite-main-menu-container mt-default-menu">
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#about" title="О плагине">Получение разрешений</a>
+						<a href="<?php echo HOST; ?>/#about" title="О плагине">Получение разрешений</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#works" title="Свежие работы">Виды перевозок</a>
+						<a href="<?php echo HOST; ?>/#works" title="Свежие работы">Виды перевозок</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#testimonials" title="Отзывы">Ж/Д перевозки</a>
+						<a href="<?php echo HOST; ?>/#testimonials" title="Отзывы">Ж/Д перевозки</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#team" title="Команда">Автомобильные коды</a>
+						<a href="<?php echo HOST; ?>/#team" title="Команда">Автомобильные коды</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#news" title="Новости">Классификация грузов</a>
+						<a href="<?php echo HOST; ?>/#news" title="Новости">Классификация грузов</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#contact" title="Контакт">Маркировка грузов</a>
+						<a href="<?php echo HOST; ?>/#contact" title="Контакт">Маркировка грузов</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#contact" title="Контакт">Метрическая система</a>
+						<a href="<?php echo HOST; ?>/#contact" title="Контакт">Метрическая система</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#contact" title="Контакт">Партнеры &amp; клиенты</a>
+						<a href="<?php echo HOST; ?>/#contact" title="Контакт">Партнеры &amp; клиенты</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#contact" title="Контакт">Грузовые автомобили</a>
+						<a href="<?php echo HOST; ?>/#contact" title="Контакт">Грузовые автомобили</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#contact" title="Контакт">Законодательство</a>
+						<a href="<?php echo HOST; ?>/#contact" title="Контакт">Законодательство</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="http://localhost/sharon/#contact" title="Контакт">Контакты</a>
+						<a href="<?php echo HOST; ?>/#contact" title="Контакт">Контакты</a>
 					</li>
 				</ul>
 			</nav>
@@ -119,37 +119,37 @@ img.emoji {
 		<ul class="mobile-nav">
 			<ul id="menu-pixova-lite-main-menu-container mt-default-menu">
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#about" title="О плагине">Получение разрешений</a>
+					<a href="<?php echo HOST; ?>/#about" title="О плагине">Получение разрешений</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#works" title="Свежие работы">Виды перевозок</a>
+					<a href="<?php echo HOST; ?>/#works" title="Свежие работы">Виды перевозок</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#testimonials" title="Отзывы">Ж/Д перевозки</a>
+					<a href="<?php echo HOST; ?>/#testimonials" title="Отзывы">Ж/Д перевозки</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#team" title="Команда">Автомобильные коды</a>
+					<a href="<?php echo HOST; ?>/#team" title="Команда">Автомобильные коды</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#news" title="Новости">Классификация грузов</a>
+					<a href="<?php echo HOST; ?>/#news" title="Новости">Классификация грузов</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#contact" title="Контакт">Маркировка грузов</a>
+					<a href="<?php echo HOST; ?>/#contact" title="Контакт">Маркировка грузов</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#contact" title="Контакт">Метрическая система</a>
+					<a href="<?php echo HOST; ?>/#contact" title="Контакт">Метрическая система</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#contact" title="Контакт">Партнеры &amp; клиенты</a>
+					<a href="<?php echo HOST; ?>/#contact" title="Контакт">Партнеры &amp; клиенты</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#contact" title="Контакт">Грузовые автомобили</a>
+					<a href="<?php echo HOST; ?>/#contact" title="Контакт">Грузовые автомобили</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#contact" title="Контакт">Законодательство</a>
+					<a href="<?php echo HOST; ?>/#contact" title="Контакт">Законодательство</a>
 				</li>
 				<li class="menu-item menu-item-type-custom menu-item-object-custom">
-					<a href="http://localhost/sharon/#contact" title="Контакт">Контакты</a>
+					<a href="<?php echo HOST; ?>/#contact" title="Контакт">Контакты</a>
 				</li>
 			</ul>
 		</ul>
