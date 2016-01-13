@@ -169,10 +169,10 @@ img.emoji {
 				<div class="row">
 					<div class="col-md-12">
 						<div class="text-center">
-							<h1 class="intro-title">Международная транспортно-экспедиторская компания SHARON GROUP LLC.</h1>
-							<p class="intro-tagline"><?php //echo "Заголовок с плавным эффектом параллакс 60fps; Случайные изображения (можно несколько)."; ?></p>
-							<a class="btn btn-cta btn-cta-intro "href="http://www.machothemes.com/themes/pixova-lite/">
-								<span>Изучите Pixova</span>
+							<h1 class="intro-title">SHARON GROUP LLC</h1>
+							<p class="intro-tagline"><?php echo "международная транспортно-экспедиторская компания"; ?></p>
+							<a class="btn btn-cta btn-cta-intro" href="<?php echo HOST; ?>/#contact">
+								<span>Наши контакты</span>
 							</a>
 						</div>
 						<!--/.text-center-->

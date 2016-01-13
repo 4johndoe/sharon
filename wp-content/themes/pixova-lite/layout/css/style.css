@@ -441,7 +441,7 @@ p {
 .testimonials-clients a:hover,
 .close-btn:hover,
 .footer-social-icon:hover {
-    opacity: .75;
+    opacity: 1;
 }
 body .btn-cta-dark {
     background: #272b3a;
