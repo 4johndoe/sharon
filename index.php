@@ -196,23 +196,23 @@ img.emoji {
 					<div id="intro-services-wrap">
 						<!-- intro service -->
 						<div class="intro-services col-md-4 col-sm-4 col-xs-4">
-							<span style="color: rgb(255,255,255)" class="fa fa-tint"></span>
-							<h3 class="intro-service-title">Веб-дизайн</h3>
-							<p class="intro-service-text">Lorem ipsum dolor sit amet. Lorem ipsum.</p>
+							<span style="color: rgb(255,255,255)" class="fa fa-truck"></span>
+							<!-- <h3 class="intro-service-title">Веб-дизайн</h3> -->
+							<p class="intro-service-text">Компания предоставляет транспортные средства для всех видов автомобильных перевозок.</p>
 						</div>
 						<!-- /intro service -->
 						<!-- intro service -->
 						<div class="intro-services col-md-4 col-sm-4 col-xs-4">
-							<span style="color: rgb(255,255,255)" class="fa fa-pagelines"></span>
-							<h3 class="intro-service-title">Разработка</h3>
-							<p class="intro-service-text">Lorem ipsum dolor sit amet. Lorem ipsum.</p>
+							<span style="color: rgb(255,255,255)" class="fa fa-line-chart"></span>
+							<!-- <h3 class="intro-service-title">Разработка</h3> -->
+							<p class="intro-service-text">Анализ структуры стоимости и расчет сопутствующих транспортировке затрат, оценка состояния дорог, оформление специальных разрешений.</p>
 						</div>
 						<!-- /intro service -->
 						<!-- intro service -->
 						<div class="intro-services col-md-4 col-sm-4 col-xs-4">
-							<span style="color: rgb(255,255,255)" class="fa fa-envelope-o"></span>
-							<h3 class="intro-service-title">Полиграфический дизайн</h3>
-							<p class="intro-service-text">Lorem ipsum dolor sit amet. Lorem ipsum.</p>
+							<span style="color: rgb(255,255,255)" class="fa fa-thumbs-up"></span>
+							<!-- <h3 class="intro-service-title">Полиграфический дизайн</h3> -->
+							<p class="intro-service-text">Партнерские отношения с крупнейшими европейскими и российскими экспедиторскими компаниями.</p>
 						</div>
 						<!-- /intro service -->
 					</div>
