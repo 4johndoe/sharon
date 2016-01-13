@@ -169,8 +169,8 @@ img.emoji {
 				<div class="row">
 					<div class="col-md-12">
 						<div class="text-center">
-							<h1 class="intro-title">Вероятно, лучшая бесплатная тема для WordPress за все времена. Теперь с  поддержкой WooCommerce.</h1>
-							<p class="intro-tagline">Заголовок с плавным эффектом параллакс 60fps; Случайные изображения (можно несколько).</p>
+							<h1 class="intro-title">Международная транспортно-экспедиторская компания SHARON GROUP LLC.</h1>
+							<p class="intro-tagline"><?php //echo "Заголовок с плавным эффектом параллакс 60fps; Случайные изображения (можно несколько)."; ?></p>
 							<a class="btn btn-cta btn-cta-intro "href="http://www.machothemes.com/themes/pixova-lite/">
 								<span>Изучите Pixova</span>
 							</a>
