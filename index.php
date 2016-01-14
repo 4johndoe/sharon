@@ -246,7 +246,7 @@
 				<!--/.row-->
 				<div class="row">
 					<p align="justify" class="about-text">
-						<img src="<?php echo IMG_PATH; ?>1312149946QK8I2j.jpg" alt="">
+						<!-- <img src="<?php echo IMG_PATH; ?>1312149946QK8I2j.jpg" alt=""> -->
 						ООО «Шерон Групп»выступает в качестве международного зкспедитора, используя для своих автомобильных перевозок 
 						наилучшие и наиболее надёжные транспортные предприятия на международном рынке, имеющие новые, застрахованные 
 						транспортные средства. Мы работаем в соответствии с европейской системой качества, и в связи с этим предлагаем 
@@ -255,7 +255,7 @@
 					<!--/.about-text-->
 					<br />
 					<blockquote>
-						<p align="justify">
+						<p align="justify"><br>
 							Компания предоставляет транспортные средства для всех видов автомобильных перевозок: рефрижераторы, 
 							грузовики стандартного размера <br>(евро фура) , большого объёма (кубовики), грузовики для перевозки 
 							контейнеров и негабаритных грузов.
@@ -266,7 +266,7 @@
 					</p>
 					<br />
 					<blockquote>
-						<p align="justify">
+						<p align="justify"><br>
 							Хорошие партнерские отношения с крупнейшими европейскими и российскими экспедиторскими компаниями позволяют осуществлять оперативные перевозки по низким ценам, а качество нашей работы позволяет нам гарантировать полную ответственность за грузы клиентов при доставке.
 						</p>
 					</blockquote>
@@ -283,67 +283,86 @@
 			<div class="container">
 				<div class="row">
 					<div class="text-center">
-						<h2 class="section-heading light-section-heading">Мы находим решения Ваших проблем.
-							<span>Кратко о том, что мы делаем.</span>
+						<h2 class="section-heading light-section-heading">Получение разрешений.
+							<!-- <span>Кратко о том, что мы делаем.</span> -->
 						</h2>
 					</div>
 					<!--/.text-center-->
 				</div>
 				<!--/.row-->
 				<div class="row">
-					<p class="about-text">
-						Creative ut tincidunt nibh, varius cursus nunc. Curabitur molestie, metus vel luctus euismod, 
-						mi libero laoreet odio, eu dapibus leo tortor sit amet purus. Давно известно, что читаемый текст 
-						на странице отвлекает посетителя от её дизайна.
+					<p align="justify" class="about-text">
+						ООО «Шерон Групп» способствует иностранным и украинским перевозчикам в организации и осуществлении перевозок тяжеловесных, негабаритных и опасных грузов по территории Украины, а именно:
 					</p>
-					<!--/.about-text--><blockquote>
-					<p>
-						Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую 
-						поддержку. Эрлих Бахман, Авиато
-					</p></blockquote>
-					<h2 class="text-center">Наши навыки</h2>
-					<div class="pixova_lite_pie_chart_wrapper col-xs-12">
-						<div class="col-md-3 col-sm-6 col-xs-12">
-							<div class="mt-chart" data-trackColor="#EEEEEE" data-barColor="#2cc36b" data-lineWidth="10" data-percent="70">
-								<div class="mt-pie-chart-custom-text">70%</div>
-							<!--/.mt-pie-chart-custom-text-->
-							</div>
-							<!--/.mt-chart-->
-							<h4 class="mt-heading mt-heading-single-line text-center">Веб-разработка</h4>
-							<!--/.mt-heading-->
-						</div>
-						<!--/.col-md-->
-						<div class="col-md-3 col-sm-6 col-xs-12">
-							<div class="mt-chart" data-trackColor="#EEEEEE" data-barColor="#2cc36b" data-lineWidth="10" data-percent="70">
-								<div class="mt-pie-chart-custom-text">70%</div>
-							<!--/.mt-pie-chart-custom-text-->
-							</div>
-						<!--/.mt-chart-->
-						<h4 class="mt-heading mt-heading-single-line text-center">Веб-дизайн</h4>
-					<!--/.mt-heading-->
+					<!--/.about-text-->
+					<blockquote>
+						<p align="justify">
+							<br><i class="fa fa-check-square-o"></i>
+							Получает необходимые согласования проезда (автомобильными дорогами, улицами городов, железнодорожными переездами и т.п.), оформляет разрешения УГАИ МВД Украины на проезд негабаритных и тяжеловесных автопоездов территорией Украины и в случае необходимости организует сопровождение патрульным автомобилем ГАИ или автомобилем прикрытия;
+							<br><br>
+							<i class="fa fa-check-square-o"></i>
+							Оформляет разрешения УГАИ МВД Украины на проезд по территории Украины транспортных средств с опасными грузами в случае отклонения их маршрута движения установленных Минтранссвязи и УГАИ МВД Украины.		
+						</p>
+					</blockquote>
+					<p align="justify" class="about-text">
+						Для расчета стоимости спецразрешения на проезд тяжеловесного или негабаритного автопоезда по территории Украины необходимо предоставить следующую информацию:
+					</p>
+					<blockquote>
+						<p><br>
+							1. Маршрут следования;<br>
+							2. Общая масса автопоезда с грузом;<br>
+							3. Максимальная длина, ширина и высота автопоезда с грузом;<br>
+							4. общее количество осей автопоезда;<br>
+							5. расстояния между осями автопоезда;<br>
+							6. нагрузка на каждую ось автопоезда;<br>
+							7. радиус поворота с грузом при длине более 24,0 м.
+						</p>
+					</blockquote>
+					<p class="about-text">
+						Для оформления спецразрешения необходимо дополнительно предоставить следующую информацию:
+					</p>
+					<blockquote>
+						<p><br>
+							1. Регистрационные номера автопоезда;<br>
+							2. Марку грузовика / тягача и прицепа / полуприцепа;<br>
+							3. Наименование груза;<br>
+							4. Точный адрес разгрузки (улица, № дома ... телефон / факс);<br>
+							5. Дату прибытия транспортного средства на границу Украины;<br>
+							6. Адрес фирмы-перевозчика.
+						</p>
+					</blockquote>
+
+					<p class="about-text">
+						Образцы заявок украинском, русском и английском языке прилагаются.
+					</p>
+					<blockquote>
+						<p><br>
+							Інформаційний лист (укр. мова) <br>
+							Информационное письмо (русский язык) <br> 
+							Information list (eng.) <br> 
+							Інформація про негабарит (укр. мова) <br> 
+							Информация про негабарит (русский язык) <br>
+							Information list of oversized vehicle (eng) <br>
+							Заява на оформлення спецдозволу (укр. мова) <br> 
+							Заявление на оформление спецразрешения (русский язык)
+						</p>
+					</blockquote>
+
+					<p class="about-text">
+						Прием заявок на оформление разрешений на негабаритный/опасный/тяжеловесный груз по территории Украины:
+					</p>
+					<blockquote>
+						<p>
+							<a href="http://www.kmu.gov.ua/control/uk/cardnpd?docid=248594294">
+								<img width="328" height="343" src="<?php echo IMG_PATH; ?>/law.png" alt="ПОСТАНОВА" >
+							</a>
+						</p>
+					</blockquote>
+					
+					<!-- <h2 class="text-center">Наши навыки</h2> -->
+
+					<div class="clearfix"></div>
 				</div>
-				<!--/.col-md-->
-				<div class="col-md-3 col-sm-6 col-xs-12">
-					<div class="mt-chart" data-trackColor="#EEEEEE" data-barColor="#2cc36b" data-lineWidth="10" data-percent="70"><div class="mt-pie-chart-custom-text">70%</div>
-					<!--/.mt-pie-chart-custom-text-->
-				</div>
-				<!--/.mt-chart-->
-				<h4 class="mt-heading mt-heading-single-line text-center">Полиграфический дизайн</h4>
-				<!--/.mt-heading-->
-			</div>
-			<!--/.col-md-->
-			<div class="col-md-3 col-sm-6 col-xs-12">
-				<div class="mt-chart" data-trackColor="#EEEEEE" data-barColor="#2cc36b" data-lineWidth="10" data-percent="70"><div class="mt-pie-chart-custom-text">70%</div>
-				<!--/.mt-pie-chart-custom-text-->
-			</div>
-			<!--/.mt-chart-->
-			<h4 class="mt-heading mt-heading-single-line text-center">Фирменный стиль</h4>
-			<!--/.mt-heading-->
-		</div>
-		<!--/.col-md-->
-	</div>
-	<!--/.mt-pie-chart-wrapper-->
-	<div class="clearfix"></div></div>
 	<!--/.row-->
 </div>
 <!--/.container-->
