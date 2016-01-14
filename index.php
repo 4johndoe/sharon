@@ -74,7 +74,10 @@
 						<!-- main navigation -->
 						<nav class="main-navigation"><ul id="menu-pixova-lite-main-menu-container mt-default-menu">
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#about" title="О плагине">Получение разрешений</a>
+								<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
+							</li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom">
+								<a href="<?php echo HOST; ?>/#license" title="О плагине">Получение разрешений</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
 								<a href="<?php echo HOST; ?>/#works" title="Свежие работы">Виды перевозок</a>
@@ -119,7 +122,10 @@
 				<ul class="mobile-nav">
 					<ul id="menu-pixova-lite-main-menu-container mt-default-menu">
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#about" title="О плагине">Получение разрешений</a>
+							<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
+						</li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom">
+							<a href="<?php echo HOST; ?>/#license" title="О плагине">Получение разрешений</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#works" title="Свежие работы">Виды перевозок</a>
@@ -226,7 +232,54 @@
 			<!--/.container-->
 		</section>
 		<!--/ SECTION -->
+
 		<section class="has-padding" id="about">
+			<div class="container">
+				<div class="row">
+					<div class="text-center">
+						<h2 class="section-heading light-section-heading">Мы находим решения Ваших проблем.
+							<span>Кратко о том, что мы делаем.</span>
+						</h2>
+					</div>
+					<!--/.text-center-->
+				</div>
+				<!--/.row-->
+				<div class="row">
+					<p align="justify" class="about-text">
+						<img src="<?php echo IMG_PATH; ?>1312149946QK8I2j.jpg" alt="">
+						ООО «Шерон Групп»выступает в качестве международного зкспедитора, используя для своих автомобильных перевозок 
+						наилучшие и наиболее надёжные транспортные предприятия на международном рынке, имеющие новые, застрахованные 
+						транспортные средства. Мы работаем в соответствии с европейской системой качества, и в связи с этим предлагаем 
+						один из самых высоких уровней обслуживания, надежности и безопасности международных перевозок.
+					</p>
+					<!--/.about-text-->
+					<br />
+					<blockquote>
+						<p align="justify">
+							Компания предоставляет транспортные средства для всех видов автомобильных перевозок: рефрижераторы, 
+							грузовики стандартного размера <br>(евро фура) , большого объёма (кубовики), грузовики для перевозки 
+							контейнеров и негабаритных грузов.
+						</p>
+					</blockquote>
+					<p align="justify" class="about-text">
+						Анализ структуры стоимости и расчет сопутствующих транспортировке затрат, оценка состояния дорог, оформление специальных разрешений для осуществления перевозок крупногабаритных и тяжеловесных грузов, согласования со службами дорожного хозяйства, ГИБДД и другими заинтересованными организациями, транспортная документация, планирование, дизайн, конструирование и поставка вспомогательных грузовых транспортных средств для осуществления перевозок автомобильным транспортом. 
+					</p>
+					<br />
+					<blockquote>
+						<p align="justify">
+							Хорошие партнерские отношения с крупнейшими европейскими и российскими экспедиторскими компаниями позволяют осуществлять оперативные перевозки по низким ценам, а качество нашей работы позволяет нам гарантировать полную ответственность за грузы клиентов при доставке.
+						</p>
+					</blockquote>
+					<!-- <h2 class="text-center">Наши навыки</h2> -->
+					
+	<!--/.mt-pie-chart-wrapper-->
+	<div class="clearfix"></div></div>
+	<!--/.row-->
+</div>
+<!--/.container-->
+</section>
+<!--/section-->
+		<section class="has-padding" id="license">
 			<div class="container">
 				<div class="row">
 					<div class="text-center">
