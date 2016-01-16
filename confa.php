@@ -1,6 +1,6 @@
 <?php 
 
 DEFINE('HOST', 'http://localhost/sharon');
-DEFINE('IMG_PATH', 'old/images/');
+DEFINE('IMG', 'old/images/');
 
  ?> 
