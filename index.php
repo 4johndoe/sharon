@@ -389,16 +389,7 @@
 								Для перевозки стандартных грузов (метал и металлоизделия, изделия из дерева, оборудование, бытовая техника, мебель и т.д.) используются автомобили со стандартными тентами объемом от 86 до 92 м³.
 							</p>
 						</p>
-<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-1-270x426.jpg">
-						<div class="logo-background">
-							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo1.png">
-						</div>
-						<div class="work-description">
-							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
-								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
-							</a>
-						</div>
- -->					</div>
+					</div>
 					<!--/.work-->
 					<div class=" col-lg-3 col-md-3">
 						<p>
@@ -407,16 +398,7 @@
 								Для перевозок опасных грузов используются специализированные транспортные средства (ADR-тенты, цистерны и рефрижераторы) с необходимым оснащением. "Шерон Транс" обладает лицензиями на право перевозок опасных грузов, водители автотранспорта имеют соответствующий допуск. В распоряжении компании находятся съемные цистерны-контейнеры, а также седельные бочки. Двух- и трехкамерные цистерны объемом от 30 до 50 м³ позволяют безопасно перевозить несколько различных грузов одновременно. 
 							</p>
 						</p>
-<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-2-270x426.jpg">
-						<div class="logo-background">
-							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo2.png">
-						</div>
-						<div class="work-description">
-							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
-								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
-							</a>
-						</div>
- -->					</div>
+					</div>
 					<!--/.work-->
 					<div class=" col-lg-3 col-md-3">
 						<p>
@@ -425,16 +407,7 @@
 								Полуприцепы для перевозки данного типа грузов укомплектованы рефрижераторными установками, которые позволяют длительное время сохранять температуру от -30°С до +30°С. Современные рефрижераторы оснащены системой регистрации и контроля температуры евроскан-1, с помощью которой можно получать данные о температурном режиме в ходе движения.
 							</p>
 						</p>
-<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-3-270x426.jpg">
-						<div class="logo-background">
-							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo3.png">
-						</div>
-						<div class="work-description">
-							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
-								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
-							</a>
-						</div>
- -->					</div>
+					</div>
 					<!--/.work-->
 					<div class=" col-lg-3 col-md-3">
 						<p>
@@ -443,16 +416,34 @@
 								Перевозку особо ценных и хрупких грузов обеспечивают цельнометаллические полуприцепы, а также 20-40ft контейнера, в которых ваше имущество будет в безопасности.
 							</p>
 						</p>
-<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-4-270x426.jpg">
-						<div class="logo-background">
-							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo4.png">
-						</div>
-						<div class="work-description">
-							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
-								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
-							</a>
-						</div>
- -->					</div>
+					</div>
+					<!--/.work-->
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка готовой одежды и текстиля.</h4>
+							<p align="justify">
+								В оборудованные вешалками и штангами контейнеры объемом 43-55 м³ готовые вещи можно загружать прямо с фабрики, не упаковывая их в коробки и не разглаживая после транспортировки. Таким образом, вы сэкономите время и деньги.
+							</p>
+						</p>
+					</div>
+					<!--/.work-->
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка легковых автомобилей всех классов.</h4>
+							<p align="justify">
+								Специальные платформы автомобилевозов повышенной вместимости рассчитаны на перевозку 10-12 автомобилей, микроавтобусов и джипов в зависимости от модификации (на обычных автомобилевозах помещается только 8 автомобилей.) Это дает прекрасную возможность уменьшить транспортные затраты - по тем же ставкам фрахта нашими автомобилевозами можно перевезти больше машин.
+							</p>
+						</p>
+					</div>
+					<!--/.work-->
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка негабаритных грузов.</h4>
+							<p align="justify">
+								Для перевозки грузов больших объемов используются мегатрейлеры, которые способны вместить от 100 до 120 м3. Погрузочная высота полуприцепа составляет 2,91 м, ширина - 2,48 м, но, учитывая его низкую посадку, общая высота мегатрейлера не превышает допустимые пределы. Благодаря этому можно перевозить грузы большой высоты, а также крупные партии легких грузов.
+							</p>
+						</p>
+					</div>
 					<!--/.work-->
 				</div>
 				<!--/.mt-projects-wrapper-->

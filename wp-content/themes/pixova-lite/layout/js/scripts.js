@@ -211,6 +211,18 @@
             });
         }
 
+        if ($('#license .container').length ){
+            $('#license .container').each(function(){
+                $(this).addClass('wow slideInRight');
+            });
+        }
+
+        if ($('#carriagesTypes .container').length ){
+            $('#carriagesTypes .container').each(function(){
+                $(this).addClass('wow slideInLeft');
+            });
+        }
+        
         if ($('#works .container').length ){
             $('#works .container').each(function(){
                 $(this).addClass('wow slideInLeft');
