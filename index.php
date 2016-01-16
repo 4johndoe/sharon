@@ -77,37 +77,37 @@
 								<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#license" title="О плагине">Получение разрешений</a>
+								<a href="<?php echo HOST; ?>/#license" title="Получение разрешений">Получение разрешений</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#works" title="Свежие работы">Виды перевозок</a>
+								<a href="<?php echo HOST; ?>/#carriagesTypes" title="Виды перевозок">Виды перевозок</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#testimonials" title="Отзывы">Ж/Д перевозки</a>
+								<a href="<?php echo HOST; ?>/#testimonials" title="Ж/Д перевозки">Ж/Д перевозки</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#team" title="Команда">Автомобильные коды</a>
+								<a href="<?php echo HOST; ?>/#team" title="Автомобильные коды">Автомобильные коды</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#news" title="Новости">Классификация грузов</a>
+								<a href="<?php echo HOST; ?>/#news" title="Классификация грузов">Классификация грузов</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакт">Маркировка грузов</a>
+								<a href="<?php echo HOST; ?>/#contact" title="Маркировка грузов">Маркировка грузов</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакт">Метрическая система</a>
+								<a href="<?php echo HOST; ?>/#contact" title="Метрическая система">Метрическая система</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакт">Партнеры &amp; клиенты</a>
+								<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакт">Грузовые автомобили</a>
+								<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакт">Законодательство</a>
+								<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакт">Контакты</a>
+								<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
 							</li>
 						</ul>
 					</nav>
@@ -125,37 +125,37 @@
 							<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#license" title="О плагине">Получение разрешений</a>
+							<a href="<?php echo HOST; ?>/#license" title="Получение разрешений">Получение разрешений</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#works" title="Свежие работы">Виды перевозок</a>
+							<a href="<?php echo HOST; ?>/#carriagesTypes" title="Виды перевозок">Виды перевозок</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#testimonials" title="Отзывы">Ж/Д перевозки</a>
+							<a href="<?php echo HOST; ?>/#testimonials" title="Ж/Д перевозки">Ж/Д перевозки</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#team" title="Команда">Автомобильные коды</a>
+							<a href="<?php echo HOST; ?>/#team" title="Автомобильные коды">Автомобильные коды</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#news" title="Новости">Классификация грузов</a>
+							<a href="<?php echo HOST; ?>/#news" title="Классификация грузов">Классификация грузов</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Контакт">Маркировка грузов</a>
+							<a href="<?php echo HOST; ?>/#contact" title="Маркировка грузов">Маркировка грузов</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Контакт">Метрическая система</a>
+							<a href="<?php echo HOST; ?>/#contact" title="Метрическая система">Метрическая система</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Контакт">Партнеры &amp; клиенты</a>
+							<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Контакт">Грузовые автомобили</a>
+							<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Контакт">Законодательство</a>
+							<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Контакт">Контакты</a>
+							<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
 						</li>
 					</ul>
 				</ul>
@@ -369,6 +369,101 @@
 <!--/.container-->
 </section>
 <!--/section-->
+
+<section class="has-padding" id="carriagesTypes">
+	<div class="container">
+		<div class="row">
+			<div class="text-center">
+				<h2 class="section-heading light-section-heading">Виды перевозок<span>Время рассказать о себе</span></h2>
+			</div>
+			<!--/.text-center-->
+		</div>
+		<!--/.row-->
+		<div class="row">
+			<div class="owlCarousel project-carousel">
+				<div class="mt-projects-wrapper col-xs-12">
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка стандартных грузов.</h4>
+							<p align="justify">
+								Для перевозки стандартных грузов (метал и металлоизделия, изделия из дерева, оборудование, бытовая техника, мебель и т.д.) используются автомобили со стандартными тентами объемом от 86 до 92 м³.
+							</p>
+						</p>
+<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-1-270x426.jpg">
+						<div class="logo-background">
+							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo1.png">
+						</div>
+						<div class="work-description">
+							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
+								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
+							</a>
+						</div>
+ -->					</div>
+					<!--/.work-->
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка опасных грузов.</h4>
+							<p align="justify">
+								Для перевозок опасных грузов используются специализированные транспортные средства (ADR-тенты, цистерны и рефрижераторы) с необходимым оснащением. "Шерон Транс" обладает лицензиями на право перевозок опасных грузов, водители автотранспорта имеют соответствующий допуск. В распоряжении компании находятся съемные цистерны-контейнеры, а также седельные бочки. Двух- и трехкамерные цистерны объемом от 30 до 50 м³ позволяют безопасно перевозить несколько различных грузов одновременно. 
+							</p>
+						</p>
+<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-2-270x426.jpg">
+						<div class="logo-background">
+							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo2.png">
+						</div>
+						<div class="work-description">
+							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
+								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
+							</a>
+						</div>
+ -->					</div>
+					<!--/.work-->
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка грузов, требующих специального температурного режима хранения и перевозки</h4>
+							<p align="justify">
+								Полуприцепы для перевозки данного типа грузов укомплектованы рефрижераторными установками, которые позволяют длительное время сохранять температуру от -30°С до +30°С. Современные рефрижераторы оснащены системой регистрации и контроля температуры евроскан-1, с помощью которой можно получать данные о температурном режиме в ходе движения.
+							</p>
+						</p>
+<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-3-270x426.jpg">
+						<div class="logo-background">
+							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo3.png">
+						</div>
+						<div class="work-description">
+							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
+								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
+							</a>
+						</div>
+ -->					</div>
+					<!--/.work-->
+					<div class=" col-lg-3 col-md-3">
+						<p>
+							<h4 align="center">Перевозка особо ценных и хрупких грузов</h4>
+							<p align="justify">
+								Перевозку особо ценных и хрупких грузов обеспечивают цельнометаллические полуприцепы, а также 20-40ft контейнера, в которых ваше имущество будет в безопасности.
+							</p>
+						</p>
+<!-- 						<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/recent-works-4-270x426.jpg">
+						<div class="logo-background">
+							<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/recent-works/logo4.png">
+						</div>
+						<div class="work-description">
+							<a target="_blank" class="work-project-link" href="http://www.machothemes.com/themes/pixova-lite/">
+								<span class="work-description-icon fa fa-eye"><em>Посмотреть проект</em></span>
+							</a>
+						</div>
+ -->					</div>
+					<!--/.work-->
+				</div>
+				<!--/.mt-projects-wrapper-->
+			</div>
+			<!--/owl-carousel-->
+		</div> 
+		<!--/.row-->
+	</div>
+	<!--/.container-->
+</section>
+
 <section class="has-padding" id="works">
 	<div class="container">
 		<div class="row">
