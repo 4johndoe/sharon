@@ -255,7 +255,7 @@ blockquote {
 }
 blockquote:before {
     color: #2cc36b;
-    content: open-quote;
+    /*content: open-quote;*/
     font-size: 4em;
     line-height: .1em;
     margin-right: .25em;
