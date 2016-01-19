@@ -222,9 +222,15 @@
                 $(this).addClass('wow slideInLeft');
             });
         }
+
+        if ($('#railway .container').length ){
+            $('#railway .container').each(function(){
+                $(this).addClass('wow slideInRight');
+            });
+        }
         
-        if ($('#works .container').length ){
-            $('#works .container').each(function(){
+        if ($('#autoCode .container').length ){
+            $('#autoCode .container').each(function(){
                 $(this).addClass('wow slideInLeft');
             });
         }
