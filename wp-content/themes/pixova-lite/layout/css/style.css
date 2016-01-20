@@ -308,7 +308,7 @@ p {
     line-height: 1.75;
     margin-bottom: 35px;
 }
-.intro-service-text,
+/*.intro-service-text,*/
 .about-text,
 .testimonials-text,
 .app-feature-text,
@@ -317,6 +317,7 @@ p {
 .tweet {
     color: #363636;
     font-size: 16px;
+    font-weight: bold;
 }
 .intro-title,
 .intro-service-title,
