@@ -208,7 +208,7 @@
 							</div>
 							<!-- /intro service -->
 							<!-- intro service -->
-							<br>
+
 							<div class="intro-services col-md-4 col-sm-4 col-xs-12">
 								<span style="color: rgb(255,255,255)" class="fa fa-line-chart"></span>
 								<!-- <h3 class="intro-service-title">Разработка</h3> -->
@@ -216,7 +216,7 @@
 							</div>
 							<!-- /intro service -->
 							<!-- intro service -->
-							<br>
+
 							<div class="intro-services col-md-4 col-sm-4 col-xs-12">
 								<span style="color: rgb(255,255,255)" class="fa fa-thumbs-o-up"></span>
 								<!-- <h3 class="intro-service-title">Полиграфический дизайн</h3> -->
