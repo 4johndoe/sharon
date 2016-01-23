@@ -40,6 +40,7 @@
 	<link rel='stylesheet' id='bootstrap-min-css-css'  href='wp-content/themes/pixova-lite/layout/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='owlCarousel-main-css-css'  href='wp-content/themes/pixova-lite/layout/css/owl.carousel.css?ver=4.3.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='owlCarousel-theme-css-css'  href='wp-content/themes/pixova-lite/layout/css/owl.theme.css?ver=4.3.1' type='text/css' media='all' />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 	<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
 	<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sharon.com.ua/wp/xmlrpc.php?rsd" />
@@ -562,7 +563,156 @@
 			<!--/.text-center-->
 		</div>
 		<!--/.row-->
-		HERE'LL BE A TABLE
+		<div class="container table-responsive">
+	      <!-- <h2>Автомобильные коды</h2> -->
+	      <!-- <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>             -->
+	      <table class="table-striped table">
+	        <thead>
+	          <tr>
+	            <th>Регион</th>
+	            <th>Код</th>
+	            <th>№</th>
+	          </tr>
+	        </thead>
+	        <tbody>
+	          <tr>
+	            <td>Республика Крым</td>
+	            <td>АК</td>
+	            <td>01</td>
+	          </tr>
+	          <tr>
+	            <td>Винницкая область</td>
+	            <td>АВ</td>
+	            <td>02</td>
+	          </tr>
+	          <tr>
+	            <td>Волынская область</td>
+	            <td>АС</td>
+	            <td>03</td>
+	          </tr>
+	          <tr>
+	            <td>Днепропетровская обл.</td>
+	            <td>АЕ</td>
+	            <td>04</td>
+	          </tr>
+	          <tr>
+	            <td>Донецкая область</td>
+	            <td>АН</td>
+	            <td>05</td>
+	          </tr>
+	          <tr>
+	            <td>Житомирская область</td>
+	            <td>АМ</td>
+	            <td>06</td>
+	          </tr>
+	          <tr>
+	            <td>Закарпатская область</td>
+	            <td>АО</td>
+	            <td>07</td>
+	          </tr>
+	          <tr>
+	            <td>Запорожская область</td>
+	            <td>АР</td>
+	            <td>08</td>
+	          </tr>
+	          <tr>
+	            <td>Ивано-Франковская обл.</td>
+	            <td>АТ</td>
+	            <td>09</td>
+	          </tr>
+	          <tr>
+	            <td>Киевская область</td>
+	            <td>AI</td>
+	            <td>10</td>
+	          </tr>
+	          <tr>
+	            <td>г. Киев</td>
+	            <td>АА</td>
+	            <td>11</td>
+	          </tr>
+	          <tr>
+	            <td>Кировоградская область</td>
+	            <td>ВА</td>
+	            <td>12</td>
+	          </tr>
+	          <tr>
+	            <td>Луганская область</td>
+	            <td>ВВ</td>
+	            <td>13</td>
+	          </tr>
+	          <tr>
+	            <td>Львовская область</td>
+	            <td>ВС</td>
+	            <td>14</td>
+	          </tr>
+	          <tr>
+	            <td>Николаевская область</td>
+	            <td>ВЕ</td>
+	            <td>15</td>
+	          </tr>
+	          <tr>
+	            <td>Одесская область</td>
+	            <td>ВН</td>
+	            <td>16</td>
+	          </tr>
+	          <tr>
+	            <td>Полтавская область</td>
+	            <td>BI</td>
+	            <td>17</td>
+	          </tr>
+	          <tr>
+	            <td>Ровенская область</td>
+	            <td>ВК</td>
+	            <td>18</td>
+	          </tr>
+	          <tr>
+	            <td>Сумская область</td>
+	            <td>ВМ</td>
+	            <td>19</td>
+	          </tr>
+	          <tr>
+	            <td>Тернопольская область</td>
+	            <td>ВО</td>
+	            <td>20</td>
+	          </tr>
+	          <tr>
+	            <td>Харьковская область</td>
+	            <td>АХ</td>
+	            <td>21</td>
+	          </tr>
+	          <tr>
+	            <td>Херсонская область</td>
+	            <td>ВТ</td>
+	            <td>22</td>
+	          </tr>
+	          <tr>
+	            <td>Хмельницкая область</td>
+	            <td>ВХ</td>
+	            <td>23</td>
+	          </tr>
+	          <tr>
+	            <td>Черкасская область</td>
+	            <td>СА</td>
+	            <td>24</td>
+	          </tr>
+	          <tr>
+	            <td>Черниговская область</td>
+	            <td>СВ</td>
+	            <td>25</td>
+	          </tr>
+	          <tr>
+	            <td>Черновицкая область</td>
+	            <td>СЕ</td>
+	            <td>26</td>
+	          </tr>
+	          <tr>
+	            <td>г. Севастополь</td>
+	            <td>СН</td>
+	            <td>27</td>
+	          </tr>
+	        </tbody>
+	      </table>
+	    </div>
 	</div>
 	<!--/.container-->
 </section>
