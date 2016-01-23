@@ -32,6 +32,7 @@
 			padding: 0 !important;
 		}
 	</style>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 	<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='pixova-lite-min-style-css'  href='wp-content/themes/pixova-lite/style.css?ver=4.3.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='animate-min-css-css'  href='wp-content/themes/pixova-lite/layout/css/animate.min.css?ver=4.3.1' type='text/css' media='all' />
@@ -40,7 +41,6 @@
 	<link rel='stylesheet' id='bootstrap-min-css-css'  href='wp-content/themes/pixova-lite/layout/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='owlCarousel-main-css-css'  href='wp-content/themes/pixova-lite/layout/css/owl.carousel.css?ver=4.3.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='owlCarousel-theme-css-css'  href='wp-content/themes/pixova-lite/layout/css/owl.theme.css?ver=4.3.1' type='text/css' media='all' />
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 	<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
 	<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sharon.com.ua/wp/xmlrpc.php?rsd" />
@@ -61,7 +61,7 @@
 	<!-- END Site Preloader -->
 
 
-	<div id="container" class="hfeed"><!-- Header -->
+	<div id="container" class="hfeed"><!-- Header MENU-->
 		<header id="header-wrap">
 			<div class="container header clearfix">
 				<div class="row">
@@ -90,7 +90,7 @@
 								<a href="<?php echo HOST; ?>/#autoCode" title="Автомобильные коды">Автомобильные коды</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#news" title="Классификация грузов">Классификация грузов</a>
+								<a href="<?php echo HOST; ?>/#cargoСlassification" title="Классификация грузов">Классификация грузов</a>
 							</li>
 							<li class="menu-item menu-item-type-custom menu-item-object-custom">
 								<a href="<?php echo HOST; ?>/#contact" title="Маркировка грузов">Маркировка грузов</a>
@@ -138,7 +138,7 @@
 							<a href="<?php echo HOST; ?>/#autoCode" title="Автомобильные коды">Автомобильные коды</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#news" title="Классификация грузов">Классификация грузов</a>
+							<a href="<?php echo HOST; ?>/#cargoСlassification" title="Классификация грузов">Классификация грузов</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#contact" title="Маркировка грузов">Маркировка грузов</a>
@@ -165,7 +165,7 @@
 			<!--/.mobile-nav-holder-->
 		</div>
 		<!--ofset-canvas-mobile-->
-		<!-- /main navigation mobile -->
+		<!-- /main navigation mobile --> 
 	</header>
 	<!--/Header-->
 <section id="intro" class="home-intro" >
@@ -715,6 +715,178 @@
 	    </div>
 	</div>
 	<!--/.container-->
+</section>
+<!--/section-->
+
+<section class="has-padding" id="cargoСlassification">
+			<div class="container">
+				<div class="row">
+					<div class="text-center">
+						<h2 class="section-heading light-section-heading">Классификация грузов.
+							<!-- <span>Кратко о том, что мы делаем.</span> -->
+						</h2>
+					</div>
+					<!--/.text-center-->
+				</div>
+				<!--/.row-->
+				<div class="row">
+					<p align="justify" class="about-text">
+						Классификация грузов - распределение перевозимых грузов по разделам, группам и позициям, которое осуществляется по разным признакам: 
+					</p>
+					<!--/.about-text-->
+					<blockquote>
+						<p align="justify">
+							<i class="fa fa-check-square-o"></i>
+							по отрасли;<br>
+							<i class="fa fa-check-square-o"></i>
+							по назначению - сырьё, топливо, материалы и готовая продукция;<br> 
+							<i class="fa fa-check-square-o"></i>
+							по видам подвижного состава - наливные и сухогрузы;<br> 
+							<i class="fa fa-check-square-o"></i>
+							по транспортным признакам - объемность, громоздкость и т.д.
+						</p>
+					</blockquote>
+					<p align="justify" class="about-text">
+						Основные факторы, которые учитываются при классификации грузов:
+					</p>
+					<!--/.about-text-->
+					<blockquote>
+						<p align="justify">
+							<i class="fa fa-check-square-o"></i>
+							способ погрузки и выгрузки;<br>
+							<i class="fa fa-check-square-o"></i>
+							условия перевозки и хранения;<br> 
+							<i class="fa fa-check-square-o"></i>
+							возможность использования грузоподъёмности подвижного состава;<br> 
+							<i class="fa fa-check-square-o"></i>
+							их сохранность при перевозке;<br>
+							<i class="fa fa-check-square-o"></i>
+							степень опасности при погрузке,<br>
+							<i class="fa fa-check-square-o"></i>
+							выгрузке и транспортировании.
+						</p>
+					</blockquote>
+					<p>
+						Для различных видов транспорта классификация грузов различается. Это вызвано различием в способе перевозки, 
+						необходимой тары и т.п.
+					</p><hr>
+					<p align="justify" class="about-text">
+						Перевозки генеральных грузов.
+					</p><!--/.about-text-->
+					<blockquote>
+						<p align="justify">
+							Генеральные грузы позволяют использовать при транспортировке любые транспортные средства и предоставляют 
+							возможность оптимизировать транспортные издержки. Генеральные грузы – это продукция, перевозимая в упакованном 
+							и неупакованном виде, поштучно или укрупненными грузовыми местами.
+							<br>
+						</p>
+					</blockquote>
+					<p class="about-text">
+						Виды генеральных грузов:
+					</p>
+					<blockquote>
+						<p align="justify">
+							<i class="fa fa-check-square-o"></i>
+							металлопродукция, <br>	
+							<i class="fa fa-check-square-o"></i>
+							подвижные технические средства, <br>	
+							<i class="fa fa-check-square-o"></i>
+							железобетонные изделия и конструкции,<br>	
+							<i class="fa fa-check-square-o"></i> 
+							в контейнерах, <br>	
+							<i class="fa fa-check-square-o"></i>
+							в транспортных пакетах, <br>	
+							<i class="fa fa-check-square-o"></i>
+							штучные в упаковке, <br>	
+							<i class="fa fa-check-square-o"></i>
+							катно-бочковые, крупногабаритные <br>	
+							<i class="fa fa-check-square-o"></i>
+							тяжеловесные, <br>	
+							<i class="fa fa-check-square-o"></i>
+							лесоматериалы.
+						</p>
+					</blockquote>
+					<p align="justify" class="about-text">
+						Перевозки сборных грузов.
+					</p>
+					<!--/.about-text-->
+					<blockquote>
+						<p align="justify">
+							<i class="fa fa-check-square-o"></i>
+							
+							<br>
+							<i class="fa fa-check-square-o"></i>
+							
+							<br> 
+							<i class="fa fa-check-square-o"></i>
+							
+							<br> 
+							<i class="fa fa-check-square-o"></i>
+							
+						</p>
+					</blockquote>
+					Перевозки сборных грузов
+
+					Такой вариант доставки позволяет перевозить одним транспортным средством несколько партий товаров, представленных разными фирмами и предназначенных разным получателям.
+
+					Негабаритные и сверхтяжелые грузы.
+
+					Такие грузы обладают нестандартными размерами, весом, объемом и т.д. Их транспортировка связана с большими трудностями, так зачастую такой груз невозможно перевезти стандартными способами. Для таких грузов приходится иногда создавать специальные транспортные средства и придумывать специальные способы, разрабатывать особые маршруты их перевозки. К данной категории грузов относятся: промышленное оборудование, сельскохозяйственная техника, дорожно-строительная техника, котельное оборудование, резервуары для пищевой промышленности, прессовое оборудование, буровые установки, негабаритные емкости для нефтеперерабатывающих предприятий, готовые заводские линии, жилой дом, бурильная установка, тяжелые генераторы и т.д.
+
+					Опасные грузы.
+
+					К опасным грузам относятся предметы или вещества, транспортировка которых чревата нанесением вреда здоровью людей, окружающей среде, а также порчей имущества. Существует специальный список опасных товаров – IATА Dangerous Goods Regulations. Транспортировка таких грузов связана с риском и должна производиться с соблюдением строжайших мер безопасности. Кроме того, существует ряд правил и требований не только непосредственно к самой перевозке таких грузов, но и к подвижному составу, оборудованию грузовых автомобилей, перевозящих такие грузы, и наличию специально подготовленного экспедитора.
+
+					К ним относятся грузы, требующие особых условий хранения (уровень влажности, температурный режим) и сроков доставки, иначе при перевозке они придут в негодность или потеряют свои ценные качества. Под классификацию таких грузов попадают, в основном, пищевые продукты.
+
+					Рефрижераторные перевозки скоропортящихся грузов
+
+					Это услуги по доставке грузов с соблюдением определенного температурного режима в соответствии с международными требованиями к перевозкам скоропортящихся грузов и продукции химической промышленности.
+
+					Для доставки грузов в режиме охлаждения, обогрева или глубокой заморозки используется специальный подвижной состав: рефрижераторы с холодильным оборудованием, двухкамерные рефрижераторы с одновременным поддержанием плюсового и минусового температурных режимов, двухъярусные рефрижераторы, изотермические фургоны.
+
+					С соблюдением температурного режима перевозят: мясо, консервы и мясные изделия, молочную продукцию, шоколад и кондитерские изделия, соки, напитки алкогольные и безалкогольные, рыбу и морепродукты, овощи, фрукты, грибы, растения и цветы, химическую продукцию (в т. ч. опасные грузы), охлажденную рыбу, свежесрезанные цветы, свежие ягоды.
+
+					Перевозка насыпных и наливных грузов
+
+					Перевозка данного вида грузов осуществляется в
+					автоцистернах, 
+					танк-контейнерах, 
+					самосвалах, 
+					флекси-танках.
+
+					К этой категории грузов относятся: пищевые грузы - вино, концентраты соков, масла пищевые и т.д.; химические (опасные и неопасные) грузы – глицерин, масла технические, клеи и т.д.; сыпучие продукты; сжиженные газы.
+
+					Перевозка легковых автомобилей.
+
+					Такая первозка осуществляется с использованием специального подвижного состава (автовозы / автотранспортёры), а также в контейнерах.
+
+					Перегон грузовой техники и спецтехники своим ходом.
+
+					Такой вариант перевозки техники и спецтехники позволяет сократить сроки и стоимость доставки. Виды грузов: грузовые автомобили, тягачи, прицепная техника.
+
+					Живые грузы.
+
+					При перевозке используется специализированный подвижной состав, предназначенный для перевозки лошадей, крупного рогатого скота, свиней, а также других животных.
+
+					Под классификацию грузов данного вида попадает рогатый скот, живая рыба, всевозможные виды домашней птицы и другие сельскохозяйственные животные.
+
+					Перевозка широкоформатного стекла
+
+					Используется специализированный транспорт (полуприцепы для перевозки листового стекла (инлоудеры), а также осуществляется полный контроль за процессом погрузки и выгрузки, что позволяет перевозить стекло с минимальным риском его повреждения.
+
+					Перевозки рулонов стали
+
+					Особенность перевозок рулонов листовой стали обусловлена громоздкостью данного груза.
+
+					Транспорт - специализированный полуприцеп для перевозки металла в бобинах (ролл-трейлеры / коил-трэйлеры).
+
+
+					<div class="clearfix"></div>
+				</div>
+	<!--/.row-->
+</div>
+<!--/.container-->
 </section>
 <!--/section-->
 
