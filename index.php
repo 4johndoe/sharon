@@ -939,7 +939,7 @@
 			<!--/.text-center-->
 		</div>
 		<!--/.row-->
-		<div class="row col-md-12">
+		<div class="row align-center">
 			<img src="<?php echo IMG; ?>/markirovka_rus.gif" alt="Перевозка опасных грузов" width="581" height="944">
 		</row> 
 		<!--/.row-->
@@ -1108,39 +1108,24 @@
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Несколько слов от наших клиентов<span>Мы не любим хвастаться, другие делают это за нас.</span></h2>
+				<h2 class="section-heading light-section-heading">Партнеры &amp; клиенты</h2>
 			</div>
 			<!--/.text-center-->
 		</div>
 		<!--/.row-->
 		<div class="row">
 			<div class="owlCarousel big-testimonial col-lg-12">
-				<div><div class="media">
-					<div class="media-top align-center">
-						<img width="138" height="138" class="testimonials-picture" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/testimonials/teammembru_burned-92x92.jpg">
-					</div>
-					<!--/.media-left.media-middle-->
-					<div class="media-body">
-						<p class="align-center">Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.</p>
-						<!--/.align-center-->
-						<div class="media-heading align-center">
-							<span class="mt-person-name">Кэти Перри — Aviato</span> - 
+				<div> <!-- hlibinvest-->
+					<div class="media">
+						<div class="media-top align-center">
+							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>hlebinvest.jpg">
 						</div>
-						<!--/.media-heading-->
-					</div>
-					<!--/.media-body-->
-				</div>
-				<!--/.media-->
-			</div>
-			<div>
-				<div class="media">
-					<div class="media-top align-center">
-						<img width="138" height="138" class="testimonials-picture" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/testimonials/teammembru_burned2-92x92.jpg"></div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
-							<p class="align-center">Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.</p>
+							<!-- <p class="align-center">Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.</p> -->
+							<!--/.align-center-->
 							<div class="media-heading align-center">
-								<span class="mt-person-name">Кэти Перри — Aviato</span> - 
+								<span class="mt-person-name">ТОВ &quot;ХЛІБ НВЕСТБУД&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1148,16 +1133,16 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div>
+				<div> <!-- eridon-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img width="138" height="138" class="testimonials-picture" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/testimonials/teammembru_burned-92x92.jpg">
+							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>eridon.jpeg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
-							<p class="align-center">Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.</p>
+							<!-- <p class="align-center">Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.</p> -->
 							<div class="media-heading align-center">
-								<span class="mt-person-name">Кэти Перри — Aviato</span> - 
+								<span class="mt-person-name">МПП Фірма «Ерідон»</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1165,18 +1150,35 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div>
+				<div> <!-- zernotreid -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img width="138" height="138" class="testimonials-picture" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/testimonials/teammembru_burned2-92x92.jpg">
+							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>logo.png">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<!-- <p class="align-center">Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.</p> -->
+							<div class="media-heading align-center">
+								<span class="mt-person-name">Компания «Зерно-Трейд»</span> 
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- agroprom-->
+					<div class="media">
+						<div class="media-top align-center">
+							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>apg.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
 							<p class="align-center">
-								Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">Кэти Перри — Aviato</span> - 
+								<span class="mt-person-name">ООО &quot;Украинская агропромышленная группа&quot;</span> 
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1184,18 +1186,18 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div>
+				<div> <!-- agropharmhim-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/testimonials/teammembru_burned-92x92.jpg">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>agrohim.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
 							<p class="align-center">
-								Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum.
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">Кэти Перри — Aviato</span> - 
+								<span class="mt-person-name">ТОВ &quot;Агрофармахім&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1203,6 +1205,350 @@
 					</div>
 					<!--/.media-->
 				</div>
+				<div> <!-- amarant -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>amarant.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Амарант&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- germes -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>germes.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Гермес-Трейдинг&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- druzhba-nova -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>druzhba-nova.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Дружба-Нова&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- investreidingservise.jpg -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>investreidingservise.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;ИнвестТрейдСервис&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- kernel.jpg -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>kernel.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Кернел-Трейд&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- zavodgranit.jpg -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>zavodgranit.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ПАТ &quot;Київський завод "Граніт&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- kormaukraine.jpg-->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>kormaukraine.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Корма України&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- Луи Дрейфус Комодитиз Украина ЛТД -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>27986.jpg">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Луи Дрейфус Комодитиз Украина ЛТД&quot;</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+				<div> <!-- ? -->
+					<div class="media">
+						<div class="media-top align-center">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+						</div>
+						<!--/.media-left.media-middle-->
+						<div class="media-body">
+							<p class="align-center">
+								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
+							</p>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">?</span>
+							</div>
+							<!--/.media-heading-->
+						</div>
+						<!--/.media-body-->
+					</div>
+					<!--/.media-->
+				</div>
+
+
 			</div>
 			<!--/owl-carousel-->
 		</div>
