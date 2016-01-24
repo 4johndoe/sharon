@@ -235,6 +235,12 @@
             });
         }
 
+        if ($('#cargoСlassification .container').length ){
+            $('#cargoСlassification .container').each(function(){
+                $(this).addClass('wow bounceInUp');
+            });
+        }
+
         if ($('#testimonials .container').length ){
             $('#testimonials .container').each(function(){
                 $(this).addClass('wow slideInRight');

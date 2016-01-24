@@ -52,76 +52,28 @@
 <body class="home blog">
 
 
-	<!-- Site Preloader -->
-	<div id="page-loader">
-		<div class="page-loader-inner">
-			<div class="loader"><strong>SHARON GROUP LLC</strong></div>
-		</div>
+<!-- Site Preloader -->
+<div id="page-loader">
+	<div class="page-loader-inner">
+		<div class="loader"><strong>SHARON GROUP LLC</strong></div>
 	</div>
-	<!-- END Site Preloader -->
+</div>
+<!-- END Site Preloader -->
 
 
-	<div id="container" class="hfeed"><!-- Header MENU-->
-		<header id="header-wrap">
-			<div class="container header clearfix">
-				<div class="row">
-					<div class="col-md-12">
-						<!-- logo -->
-						<a class="logo" id="sleep" href="<?php echo HOST; ?>">SHARON GROUP LLC</a>
-						<!-- /logo -->
-						<!-- menu icon -->
-						<a id="nav-expander" class="pull-right" href="#"><i class="fa fa-bars fa-lg white"></i></a>
-						<!-- /menu icon -->
-						<!-- main navigation -->
-						<nav class="main-navigation"><ul id="menu-pixova-lite-main-menu-container mt-default-menu">
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#license" title="Получение разрешений">Получение разрешений</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#carriagesTypes" title="Виды перевозок">Виды перевозок</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#railway" title="Ж/Д перевозки">Ж/Д перевозки</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#autoCode" title="Автомобильные коды">Автомобильные коды</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#cargoСlassification" title="Классификация грузов">Классификация грузов</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#markup" title="Маркировка грузов">Маркировка грузов</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Метрическая система">Метрическая система</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
-							</li>
-						</ul>
-					</nav>
-					<!-- /main-navigation -->
-				</div>
-			</div>
-		</div>
-		<!-- main navigation mobile -->
-		<div class="offset-canvas-mobile">
-			<nav class="mobile-nav-holder">  
-				<a href="#" class="close-btn mobile-nav-close-btn"><span class="fa fa-close"></span></a>
-				<ul class="mobile-nav">
-					<ul id="menu-pixova-lite-main-menu-container mt-default-menu">
+<div id="container" class="hfeed"><!-- Header MENU-->
+	<header id="header-wrap">
+		<div class="container header clearfix">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- logo -->
+					<a class="logo" id="sleep" href="<?php echo HOST; ?>">SHARON GROUP LLC</a>
+					<!-- /logo -->
+					<!-- menu icon -->
+					<a id="nav-expander" class="pull-right" href="#"><i class="fa fa-bars fa-lg white"></i></a>
+					<!-- /menu icon -->
+					<!-- main navigation -->
+					<nav class="main-navigation"><ul id="menu-pixova-lite-main-menu-container mt-default-menu">
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
 						</li>
@@ -144,7 +96,7 @@
 							<a href="<?php echo HOST; ?>/#markup" title="Маркировка грузов">Маркировка грузов</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Метрическая система">Метрическая система</a>
+							<a href="<?php echo HOST; ?>/#metricSys" title="Метрическая система">Метрическая система</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
@@ -159,14 +111,62 @@
 							<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
 						</li>
 					</ul>
-				</ul>
-				<!--/.mobile-nav-->
-			</nav>
-			<!--/.mobile-nav-holder-->
+				</nav>
+				<!-- /main-navigation -->
+			</div>
 		</div>
-		<!--ofset-canvas-mobile-->
-		<!-- /main navigation mobile --> 
-	</header>
+	</div>
+	<!-- main navigation mobile -->
+	<div class="offset-canvas-mobile">
+		<nav class="mobile-nav-holder">  
+			<a href="#" class="close-btn mobile-nav-close-btn"><span class="fa fa-close"></span></a>
+			<ul class="mobile-nav">
+				<ul id="menu-pixova-lite-main-menu-container mt-default-menu">
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#about" title="О нас">О нас</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#license" title="Получение разрешений">Получение разрешений</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#carriagesTypes" title="Виды перевозок">Виды перевозок</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#railway" title="Ж/Д перевозки">Ж/Д перевозки</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#autoCode" title="Автомобильные коды">Автомобильные коды</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#cargoСlassification" title="Классификация грузов">Классификация грузов</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#markup" title="Маркировка грузов">Маркировка грузов</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#metricSys" title="Метрическая система">Метрическая система</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom">
+						<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
+					</li>
+				</ul>
+			</ul>
+			<!--/.mobile-nav-->
+		</nav>
+		<!--/.mobile-nav-holder-->
+	</div>
+	<!--ofset-canvas-mobile-->
+	<!-- /main navigation mobile --> 
+</header>
 	<!--/Header-->
 <section id="intro" class="home-intro" >
 		<div class="parallax-bg-container">
@@ -939,13 +939,171 @@
 			<!--/.text-center-->
 		</div>
 		<!--/.row-->
-		<div class="row">
+		<div class="row col-md-12">
 			<img src="<?php echo IMG; ?>/markirovka_rus.gif" alt="Перевозка опасных грузов" width="581" height="944">
 		</row> 
 		<!--/.row-->
 	</container>
 	<!--/.container-->
 </section>
+
+<section class="has-padding" id="metricSys">
+	<div class="container">
+		<div class="row">
+			<div class="text-center">
+				<h2 class="section-heading light-section-heading">Метрическая система.</h2>
+			</div>
+			<!--/.text-center-->
+		</div>
+		<!--/.row-->
+		<div class="container table-responsive">
+      <h2>Меры длины</h2>
+      <!-- <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>             -->
+      <table class="table-striped table">
+        <!-- <thead>
+          <tr>
+            <th>Регион</th>
+            <th>Код</th>
+            <th>№</th>
+          </tr>
+        </thead> -->
+        <tbody>
+          <tr>
+            <td>1 километр (км.)</td>
+            <td>1 000 метров (м)</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 метр (м)</td>
+            <td>10 дециметров (дм)</td>
+            <td>100 сантиметров (см)</td>
+          </tr>
+          <tr>
+            <td>1 дециметр (дм)</td>
+            <td>10 сантиметров (см)</td>
+            <td>100 миллиметров (мм)</td>
+          </tr>
+          <tr>
+            <td>1 сантиметр (см)</td>
+            <td>10 миллиметров(мм)</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="container table-responsive">
+      <h2>Меры площади</h2>
+      <!-- <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>             -->
+      <table class="table-striped table">
+        <!-- <thead>
+          <tr>
+            <th>Регион</th>
+            <th>Код</th>
+            <th>№</th>
+          </tr>
+        </thead> -->
+        <tbody>
+          <tr>
+            <td>1 кв. километр</td>
+            <td>1 000 000 кв. метров</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 кв. метр</td>
+            <td>100 кв. дециметров</td>
+            <td>10 000 кв. сантиметров</td>
+          </tr>
+          <tr>
+            <td>1 гектар (га)</td>
+            <td>100 акр. (а)</td>
+            <td>10 000 кв. метров</td>
+          </tr>
+          <tr>
+            <td>1 ар (а)</td>
+            <td>100 кв. метров</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="container table-responsive">
+      <h2>Меры объёма</h2>
+      <!-- <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>             -->
+      <table class="table-striped table">
+        <!-- <thead>
+          <tr>
+            <th>Регион</th>
+            <th>Код</th>
+            <th>№</th>
+          </tr>
+        </thead> -->
+        <tbody>
+          <tr>
+            <td>1 куб. метр</td>
+            <td>1 000 куб. дециметров</td>
+            <td>1 000 000 куб. сантиметров</td>
+          </tr>
+          <tr>
+            <td>1 куб. дециметр</td>
+            <td>1 000 куб. сантиметров</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 литр.</td>
+            <td>1 куб. дециметр</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 геколитр</td>
+            <td>100 литров</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="container table-responsive">
+      <h2>Меры массы</h2>
+      <!-- <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>             -->
+      <table class="table-striped table">
+        <!-- <thead>
+          <tr>
+            <th>Регион</th>
+            <th>Код</th>
+            <th>№</th>
+          </tr>
+        </thead> -->
+        <tbody>
+          <tr>
+            <td>1 тонна (т)</td>
+            <td>1 000 килограммов (кг)</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 центнер (ц)</td>
+            <td>100 килограммов (кг)</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 килограмм (кг)</td>
+            <td>1 000 граммов (г)</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>1 грамм (г)</td>
+            <td>1 000 миллиграммов (мг)</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+	</div>
+	<!--/.container-->
+</section>
+<!--/section-->
+
 <section class="has-padding" id="testimonials">
 	<div class="container">
 		<div class="row">
