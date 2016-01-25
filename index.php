@@ -102,7 +102,7 @@
 							<a href="<?php echo HOST; ?>/#partners" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
+							<a href="<?php echo HOST; ?>/#tracks" title="Грузовые автомобили">Грузовые автомобили</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
@@ -150,7 +150,7 @@
 						<a href="<?php echo HOST; ?>/#partners" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
+						<a href="<?php echo HOST; ?>/#tracks" title="Грузовые автомобили">Грузовые автомобили</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
 						<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
@@ -1491,7 +1491,6 @@
 					</div>
 					<!--/.media-->
 				</div>
-
 			</div>
 			<!--/owl-carousel-->
 		</div>
@@ -1500,6 +1499,151 @@
 	<!--/.container-->
 </section>
 <!--/ SECTION -->
+
+<section class="has-padding" id="tracks">
+	<div class="container">
+		<div class="row">
+			<div class="text-center">
+				<h2 class="section-heading light-section-heading">Грузовые автомобили</h2>
+			</div>
+			<!--/.text-center-->
+		</div>
+		<!--/.row-->
+		<div class="container table-responsive">
+	      <!-- <h2>Грузовые автомобили</h2> -->
+	      <!-- <p>The .table class adds basic styling (light padding and only horizontal dividers) to a table:</p>             -->
+	      <table class="table-striped table">
+	        <thead>
+	          <tr>
+	            <th>Название</th>
+	            <th>Описание</th>
+	            <th>Грузо-подъемность (тонн)</th>
+	            <th>Полезный объем (м³)</th>
+	            <th>Вмести-мость евро-паллета</th>
+	            <th>Пример</th>
+	          </tr>
+	        </thead>
+	        <tbody>
+	          <tr>
+	            <td>Полуприцеп Тент</td>
+	            <td>Один из наиболее распространенных типов грузовых автомобилей. Предназначен для перевозки большинства видов грузов. Загрузка может производиться сверху, сбоку, сзади.</td>
+	            <td>20-25</td>
+	            <td>60-96</td>
+	            <td>22-33</td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_tent_150.jpg" width="100" height="80" alt="Тент, полуприцеп"></td>
+	          </tr>
+	          <tr>
+	            <td>Рефрижератор, полуприцеп</td>
+	            <td>Полуприцеп с холодильной установкой. Предназначен для перевозки скоропортящихся грузов, а также требующих определенного температурного режима. В грузовом отсеке он сохраняет температуру от +25° до - 25°С. Эксплуатация дороже обычных типов машин на 5-25%.</td>
+	            <td>20</td>
+	            <td>82</td>
+	            <td>32</td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_fridge_150.jpg" width="100" height="80" alt="Рефрижератор"></td>
+	          </tr>
+	          <tr>
+	            <td>Изотерм</td>
+	            <td>Предназначен для перевозки продуктов питания на небольшие расстояния. Способен сохранять температуру склада достаточное, для сохранения качества продукции, время.</td>
+	            <td>3-25</td>
+	            <td>32-92</td>
+	            <td>6-33</td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_izoterm_150.jpg" width="100" height="80" alt="изотерм"></td>
+	          </tr>
+	          <tr>
+	            <td>Автосцепка</td>
+	            <td>Автомобиль плюс прицеп. Преимущество: быстрая погрузка и разгрузка, а также большой полезный объем. Недостаток: не пригоден для перевозки длинномерных изделий.</td>
+	            <td>16-25</td>
+	            <td>60-120</td>
+	            <td>22-33</td>
+	            <td><img src="<?php echo IMG; ?>/trucks/avto-scepka_150.jpg" alt="Автосцепка" width="100" height="80"></td>
+	          </tr>
+	          <tr>
+	            <td>&quot;Jumbo&quot;</td>
+	            <td>Полуприцеп повышенной вместимости, которая достигается за счет &quot;Г&quot;-образного пола и уменьшенного диаметра колес полуприцепа.</td>
+	            <td>20</td>
+	            <td>96-110</td>
+	            <td>33</td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_jumbo_150.jpg" width="100" height="80" alt="Jumbo"></td>
+	          </tr>
+	          <tr>
+	            <td>Контейнеровоз</td>
+	            <td>Пригоден для перевозки контейнеров различных видов.</td>
+	            <td>20-30</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_conteiner_150.jpg" width="100" height="80" alt="контейнеровоз"></td>
+	          </tr>
+	          <tr>
+	            <td>Открытая бортовая</td>
+	            <td>Дает возможность перевозить разногабаритные грузы, которые выдерживают воздействия различных погодных условий.</td>
+	            <td>3-25</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_bortovoi_150.jpg" width="100" height="80" alt="открытая боковая"></td>
+	          </tr>
+	          <tr>
+	            <td>Открытая платформа</td>
+	            <td>Дает возможность перевозить разногабаритные грузы, которые выдерживают воздействия различных погодных условий.</td>
+	            <td>15-20</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_platforma_150.jpg" width="100" height="80" alt="открытая платформа"></td>
+	          </tr>
+	          <tr>
+	            <td>Автоцистерна</td>
+	            <td>Предназначена для перевозки жидкостей.</td>
+	            <td>12-22</td>
+	            <td>8-40</td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_tank_150.jpg" width="100" height="80" alt="автоцистерна"></td>
+	          </tr>
+	          <tr>
+	            <td>Микроавтобус</td>
+	            <td>Предназначен для перевозки грузов малого объема и веса.</td>
+	            <td>1-3</td>
+	            <td>3-10</td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/minibus.jpg" width="100" height="80" alt="микроавтобус"></td>
+	          </tr>
+	          <tr>
+	            <td>Автовоз</td>
+	            <td>Предназначен для перевозки легковых автомобилей. Вместимость напрямую зависит от длины прицепа (в среднем 8-10 автомобилей).</td>
+	            <td>20-25</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_avtovoz_150.jpg" width="100" height="80" alt="автовоз"></td>
+	          </tr>
+	          <tr>
+	            <td>Зерновоз</td>
+	            <td>Применяется для перевозки зерновых культур.</td>
+	            <td>12-22</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_zernovoz_150.jpg" width="100" height="80" alt="зерновоз"></td>
+	          </tr>
+	          <tr>
+	            <td>Самосвал</td>
+	            <td>Применяется для перевозки песка и других сыпучих грузов.</td>
+	            <td>12-22</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_samosval_150.jpg" width="100" height="80" alt="самосвал"></td>
+	          </tr>
+	          <tr>
+	            <td>Лесовоз</td>
+	            <td>Дает возможность перевозки длинномерной лесо-трубной продукции.</td>
+	            <td>10-30</td>
+	            <td></td>
+	            <td></td>
+	            <td><img src="<?php echo IMG; ?>/trucks/polupricep_sortiment_150.jpg" width="100" height="80" alt="лесовоз"></td>
+	          </tr>
+	        </tbody>
+	      </table>
+	    </div>
+
+	</div>
+	<!--/.container-->
+</section>
+<!--/section-->
 
 <section class="has-padding" id="contact">
 	<div class="container">
