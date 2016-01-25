@@ -105,7 +105,7 @@
 							<a href="<?php echo HOST; ?>/#tracks" title="Грузовые автомобили">Грузовые автомобили</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
+							<a href="<?php echo HOST; ?>/#rules" title="Законодательство">Законодательство</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
@@ -153,7 +153,7 @@
 						<a href="<?php echo HOST; ?>/#tracks" title="Грузовые автомобили">Грузовые автомобили</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="<?php echo HOST; ?>/#contact" title="Законодательство">Законодательство</a>
+						<a href="<?php echo HOST; ?>/#rules" title="Законодательство">Законодательство</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
 						<a href="<?php echo HOST; ?>/#contact" title="Контакты">Контакты</a>
@@ -240,8 +240,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Мы находим решения Ваших проблем.
-					<span>Кратко о том, что мы делаем.</span>
+				<h2 class="section-heading light-section-heading">Мы находим решения Ваших проблем
+					<span>Кратко о том, что мы делаем</span>
 				</h2>
 			</div>
 			<!--/.text-center-->
@@ -287,7 +287,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="text-center">
-						<h2 class="section-heading light-section-heading">Получение разрешений.
+						<h2 class="section-heading light-section-heading">Получение разрешений
 							<!-- <span>Кратко о том, что мы делаем.</span> -->
 						</h2>
 					</div>
@@ -476,7 +476,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="text-center">
-						<h2 class="section-heading light-section-heading">Железнодорожные перевозки.
+						<h2 class="section-heading light-section-heading">Железнодорожные перевозки
 							<!-- <span>Кратко о том, что мы делаем.</span> -->
 						</h2>
 					</div>
@@ -558,7 +558,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Автомобильные коды.</h2>
+				<h2 class="section-heading light-section-heading">Автомобильные коды</h2>
 			</div>
 			<!--/.text-center-->
 		</div>
@@ -722,7 +722,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Классификация грузов.
+				<h2 class="section-heading light-section-heading">Классификация грузов
 					<!-- <span>Кратко о том, что мы делаем.</span> -->
 				</h2>
 			</div>
@@ -934,7 +934,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Маркировка грузов.</h2>
+				<h2 class="section-heading light-section-heading">Маркировка грузов</h2>
 			</div>
 			<!--/.text-center-->
 		</div>
@@ -951,7 +951,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Метрическая система.</h2>
+				<h2 class="section-heading light-section-heading">Метрическая система</h2>
 			</div>
 			<!--/.text-center-->
 		</div>
@@ -1645,6 +1645,148 @@
 </section>
 <!--/section-->
 
+<section class="has-padding" id="rules">
+	<div class="container">
+		<div class="row">
+			<div class="text-center">
+				<h2 class="section-heading light-section-heading">Законодательство
+					<span>
+						Законодательные и нормативные акты Украины, которые регулируют перевозку грузов автотранспортом.
+					</span>
+				</h2>
+			</div>
+			<!--/.text-center-->
+		</div>
+		<!--/.row-->
+		<div class="row col-md-6" style="margin-right: 2px;">
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О транспорте»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «Об автомобильном транспорте»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О присоединении Украины к Конвенции о договоре международной автомобильной перевозки грузов»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О некоторых вопросах ввоза на таможенную территорию Украины транспортных средств»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О присоединении Украины к Европейскому соглашению о работе экипажей транспортных средств, выполняющих международные автомобильные перевозки (ЕСТР)»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О транспортно-экспедиторской деятельности»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О перевозке опасных грузов»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О транзите грузов»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Закон Украины «О страховании»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Постановление Кабинета Министров Украины от 08.05.1993 № 340 «Об утверждении Положения о порядке выдачи удостоверений водителя и допуска граждан к управлению транспортными средствами»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Постановление Кабинета Министров Украины от 10.10.2001 № 1306 «О Правилах дорожного движения»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Постановление Кабинета Министров Украины от 29.01.1999 г. № 104 «О мерах по предотвращению чрезвычайных ситуаций при перевозке опасных грузов автомобильным транспортом»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Постановление Кабинета Министров Украины от 29.01.2003 г. № 143 «Об утверждении Порядка осуществления государственного контроля на автомобильном транспорте общего пользования»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Министерства транспорта Украины от 20.08.2004 № 757 «Порядок оформления, выдачи, использования, учета и отчетности относительно разрешений Европейской Конференции Министров Транспорта (ЕКМТ) на перевозку грузов автомобильным транспортом между странами - членами ЕКМТ»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Министерства транспорта Украины от 30.03.1998 № 102 «Об утверждении Положения о техническом обслуживании и ремонте дорожных транспортных средств автомобильного транспорта»
+			</p>
+			<!--/.about-text-->
+			<div class="clearfix"></div>
+		</div>
+	<!--/.row-->
+		<div class="row col-md-6">
+			
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Министерства здравоохранения Украины и Министерства внутренних дел Украины от 05.06.2000 № 124/345 «Об утверждении Положения о медицинском осмотре кандидатов в водители и водителей транспортных средств»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Государственной таможенной службы Украины от 03.07.2006 № 551 «Об утверждении Порядка заполнения и использования предварительного уведомления таможенного органа о намерении ввезти товары на таможенную территорию Украины и о внесении изменения в приказ Государственной таможенной службы Украины от 12.12.2005 № 1220»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Государственной таможенной службы Украины от 21.11.2001 № 755 «Об утверждении Порядка реализации положений Таможенной конвенции о международной перевозке грузов с применением книжки МДП»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Государственной таможенной службы Украины от 20.04.2005 № 314 «Об утверждении Порядка осуществления таможенного контроля и таможенного оформления товаров с применением грузовой таможенной декларации»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Приказ Государственного комитета Украины по вопросам регуляторной политики и предпринимательства, Министерства транспорта Украины от 16.01.2001 № 6/18 «Об утверждении Лицензионных условий осуществления хозяйственной деятельности по предоставлению услуг по перевозке пассажиров и грузов автомобильным транспортом»
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				Международные законодательные акты о грузоперевозках
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				«Соглашение о массах и габаритах транспортных средств, осуществляющих межгосударственные перевозки по автомобильным дорогам государств участников Содружества Независимых Государств». Дата подписания: 04.06.99. Дата присоединения Украины: 29.10.99.
+			</p>
+			<!--/.about-text-->
+			<p style="border-bottom: 1px solid #ccc;">
+				<i class="fa fa-file-text-o"></i>
+				«Европейское Соглашение о международной дорожной перевозке опасных грузов (ДОПОГ)». Дата подписания: 30.09.1957. Дата присоединения Украины: 02.03.2000.
+			</p>
+			<!--/.about-text-->
+			<div class="clearfix"></div>
+		</div>
+	<!--/.row-->
+	</div>
+<!--/.container-->
+</section>
+<!--/section-->
+
 <section class="has-padding" id="contact">
 	<div class="container">
 		<div class="row">
@@ -1694,61 +1836,28 @@
 <footer id="footer" class="site-footer" role="contentinfo">
 	<div class="container">
 		<div class="row">
-			<div class="mt-footer-widget col-md-3">
-				<div class="widget pixova_lite_widget_about">
-					<div class="fixed">
-						<h2 class="widgettitle">О плагине</h2>
-						<p class="footer-descr">Существует много вариантов абзацев Lorem Ipsum, но большинство из них были в той или иной форме изменены с добавлением юмора.</p>
-					</div>
-				</div>
-			</div>
-			<!--/.mt--foter--widget.col-md-3-->
-			<div class="mt-footer-widget col-md-3">
+			<div class="mt-footer-widget col-md-12">
 				<div class="widget">
 					<h2 class="widgettitle">Быстрый переход</h2>
 					<ul id="menu-pixova-footer-menu" class="menu">
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="">О нас</a></li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#">Документы и факсы</a></li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#">Ссылка на статью</a></li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#">ЧАВО</a></li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#">Новости</a></li>
-						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#">Контакт</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#about">О нас</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#license">Получение разрешений</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#carriagesTypes" title="Виды перевозок">Виды перевозок</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#railway" title="Ж/Д перевозки">Ж/Д перевозки</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#autoCode" title="Автомобильные коды">Автомобильные коды</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#cargoСlassification" title="Классификация грузов">Классификация грузов</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#markup" title="Маркировка грузов">Маркировка грузов</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#metricSys" title="Метрическая система">Метрическая система</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#partners" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#tracks" title="Грузовые автомобили">Грузовые автомобили</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#rules" title="Законодательство">Законодательство</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#contact" title="Контакты">Контакты</a></li>
 					</ul>
 				</div>
 
 			</div>
 			<!--/.mt--foter--widget.col-md-3-->
-			<div class="mt-footer-widget col-md-3">
-				<div class="widget pixova_lite_widget_social_media">
-					<h2 class="widgettitle">Подписаться</h2>
-					<div class="fixed">
-						<ul>
-							<li><a class="facebook-icon social-icon" href="#"><i class="fa fa-facebook"></i>Facebook</a></li>
-							<li><a class="twitter-icon social-icon" href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-							<li><a class="googleplus-icon social-icon" href="#"><i class="fa fa-google-plus"></i>Google+</a></li>
-							<li><a class="pinterest-icon social-icon" href="#"><i class="fa fa-pinterest"></i>Pinterest</a></li>
-							<li><a class="youtube-icon social-icon" href="#"><i class="fa fa-youtube"></i>YouTube</a></li>
-							<li><a class="dribble-icon social-icon" href="#"><i class="fa fa-dribbble"></i>Dribbble</a></li>
-							<li><a class="tumblr-icon social-icon" href="#"><i class="fa fa-tumblr"></i>Tumblr</a></li>
-							<li><a class="instagram-icon social-icon" href="#."><i class="fa fa-instagram"></i>Instagram</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<!--/.mt--foter--widget.col-md-3-->
-			<div class="mt-footer-widget col-md-3">
-				<div class="widget pixova_lite_widget_latest_posts">
-					<h2 class="widgettitle">Свежие посты</h2>
-					<ul>
-						<li class="fixed first">
-							<h5><a href="http://www.sharon.com.ua/wp/2015/11/26/hello-world/">Hello world!</a></h5>
-							<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-							<p></p>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<!--/.mt--foter--widget.col-md-3-->    
+  
 		</div> 
 		<!-- /.row-->
 	</div> 
