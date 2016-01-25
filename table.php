@@ -645,3 +645,36 @@
   <!--/.container-->
 </section>
 <!--/ SECTION -->
+
+<!-- last two section of footer -->
+      <div class="mt-footer-widget col-md-3">
+        <div class="widget pixova_lite_widget_social_media">
+          <h2 class="widgettitle">Подписаться</h2>
+          <div class="fixed">
+            <ul>
+              <li><a class="facebook-icon social-icon" href="#"><i class="fa fa-facebook"></i>Facebook</a></li>
+              <li><a class="twitter-icon social-icon" href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
+              <li><a class="googleplus-icon social-icon" href="#"><i class="fa fa-google-plus"></i>Google+</a></li>
+              <li><a class="pinterest-icon social-icon" href="#"><i class="fa fa-pinterest"></i>Pinterest</a></li>
+              <li><a class="youtube-icon social-icon" href="#"><i class="fa fa-youtube"></i>YouTube</a></li>
+              <li><a class="dribble-icon social-icon" href="#"><i class="fa fa-dribbble"></i>Dribbble</a></li>
+              <li><a class="tumblr-icon social-icon" href="#"><i class="fa fa-tumblr"></i>Tumblr</a></li>
+              <li><a class="instagram-icon social-icon" href="#."><i class="fa fa-instagram"></i>Instagram</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!--/.mt--foter--widget.col-md-3-->
+      <div class="mt-footer-widget col-md-3">
+        <div class="widget pixova_lite_widget_latest_posts">
+          <h2 class="widgettitle">Свежие посты</h2>
+          <ul>
+            <li class="fixed first">
+              <h5><a href="http://www.sharon.com.ua/wp/2015/11/26/hello-world/">Hello world!</a></h5>
+              <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+              <p></p>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!--/.mt--foter--widget.col-md-3-->  
