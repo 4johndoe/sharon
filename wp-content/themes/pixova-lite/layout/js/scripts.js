@@ -131,6 +131,7 @@
             $('.mobile-nav-holder a').on('click', function() {
                 $('.offset-canvas-mobile').removeClass('open-canvas');
             });
+            $('#markupWrap').addClass('img-responsive');
         }
     }
 
@@ -241,21 +242,33 @@
             });
         }
 
-        if ($('#testimonials .container').length ){
-            $('#testimonials .container').each(function(){
+        if ($('#markup .container').length ){
+            $('#markup .container').each(function(){
                 $(this).addClass('wow slideInRight');
             });
         }
 
-        if ($('#news .container').length ){
-            $('#news .container').each(function(){
-                $(this).addClass('wow slideInRight');
+        if ($('#metricSys .container').length ){
+            $('#metricSys .container').each(function(){
+                $(this).addClass('wow slideInLeft');
             });
         }
 
-        if ($('#team .container').length ){
-            $('#team .container').each(function(){
+        if ($('#partners .container').length ){
+            $('#partners .container').each(function(){
                 $(this).addClass('wow bounceInUp');
+            });
+        }
+
+        if ($('#tracks .container').length ){
+            $('#tracks .container').each(function(){
+                $(this).addClass('wow slideInRight');
+            });
+        }
+
+        if ($('#rules .container').length ){
+            $('#rules .container').each(function(){
+                $(this).addClass('wow slideInLeft');
             });
         }
 

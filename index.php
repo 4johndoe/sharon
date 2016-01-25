@@ -940,7 +940,7 @@
 		</div>
 		<!--/.row-->
 		<div class="row align-center">
-			<img src="<?php echo IMG; ?>/markirovka_rus.gif" alt="Перевозка опасных грузов" width="581" height="944">
+			<img id="markupWrap" src="<?php echo IMG; ?>/markirovka_rus.gif" alt="Перевозка опасных грузов" width="581" height="944">
 		</row> 
 		<!--/.row-->
 	</container>
@@ -1118,7 +1118,7 @@
 				<div> <!-- hlibinvest-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>hlebinvest.jpg">
+							<img  src="<?php echo IMG; ?>hlebinvest.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1136,7 +1136,7 @@
 				<div> <!-- eridon-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>eridon.jpeg">
+							<img  src="<?php echo IMG; ?>eridon.jpeg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1153,7 +1153,7 @@
 				<div> <!-- zernotreid -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>logo.png">
+							<img  src="<?php echo IMG; ?>logo.png">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1170,7 +1170,7 @@
 				<div> <!-- agroprom-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img width="138" height="138" class="testimonials-picture" src="<?php echo IMG; ?>apg.jpg">
+							<img  src="<?php echo IMG; ?>apg.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1189,7 +1189,7 @@
 				<div> <!-- agropharmhim-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>agrohim.jpg">
+							<img  src="<?php echo IMG; ?>agrohim.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1208,7 +1208,7 @@
 				<div> <!-- amarant -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>amarant.jpg">
+							<img  src="<?php echo IMG; ?>amarant.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1227,7 +1227,7 @@
 				<div> <!-- germes -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>germes.jpg">
+							<img  src="<?php echo IMG; ?>germes.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1246,7 +1246,7 @@
 				<div> <!-- druzhba-nova -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>druzhba-nova.jpg">
+							<img  src="<?php echo IMG; ?>druzhba-nova.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1265,7 +1265,7 @@
 				<div> <!-- investreidingservise.jpg -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>investreidingservise.jpg">
+							<img  src="<?php echo IMG; ?>investreidingservise.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1284,7 +1284,7 @@
 				<div> <!-- kernel.jpg -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>kernel.jpg">
+							<img  src="<?php echo IMG; ?>kernel.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1303,7 +1303,7 @@
 				<div> <!-- zavodgranit.jpg -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>zavodgranit.jpg">
+							<img  src="<?php echo IMG; ?>zavodgranit.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1322,7 +1322,7 @@
 				<div> <!-- kormaukraine.jpg-->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>kormaukraine.jpg">
+							<img  src="<?php echo IMG; ?>kormaukraine.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1341,7 +1341,7 @@
 				<div> <!-- Луи Дрейфус Комодитиз Украина ЛТД -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>27986.jpg">
+							<img  src="<?php echo IMG; ?>27986.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1360,7 +1360,7 @@
 				<div> <!-- ПАО &quot;Мироновский хлебопродукт&quot; -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>mhp2.jpg">
+							<img  src="<?php echo IMG; ?>mhp2.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1379,7 +1379,7 @@
 				<div> <!-- ПСП &quot;Перемога&quot; -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>peremoga.jpg">
+							<img  src="<?php echo IMG; ?>peremoga.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1398,7 +1398,7 @@
 				<div> <!-- rambus.jpg -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>rambus.jpg">
+							<img  src="<?php echo IMG; ?>rambus.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1417,7 +1417,7 @@
 				<div> <!-- without_photo1 -->
 					<div class="media">
 						<div class="media-top align-center">
-							<!-- <img class="testimonials-picture" src="<?php echo IMG; ?>?"> -->
+							<!-- <img  src="<?php echo IMG; ?>?"> -->
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
