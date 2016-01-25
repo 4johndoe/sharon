@@ -132,6 +132,7 @@
                 $('.offset-canvas-mobile').removeClass('open-canvas');
             });
             $('#markupWrap').addClass('img-responsive');
+            $('.intro-title').addClass('less-font');
         }
     }
 

@@ -291,10 +291,15 @@ blockquote p {
 
 h1.intro-title {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 46px;
+    font-size: 70px;
     font-weight: 400;
     letter-spacing: -1px;
 }
+
+h1.less-font {
+    font-size: 46px;
+}
+
 p {
     color: #363636;
     font-family: 'Source Sans Pro', sans-serif;
