@@ -1807,12 +1807,12 @@
 						Отдел авто логистики <br />
 						Телефон: <a href="tel:+380442392959">+38 044 239-29-59</a> <br />
 						Отдел Ж/Д логистики <br />
-						Телефон: <a href="callto:+380444518443">+38 044 451-84-43</a> <br />
+						Телефон: <a href="tel:+380444518443">+38 044 451-84-43</a> <br />
 						E-mail: <a href="mailto:office@sharon.com.ua">office@sharon.com.ua</a><br />
 					</p>
 					<h3>Дирекция</h3>
 					<p class="contact-info-details">
-						Телефон: <a href="callto:+380672357781">+38 067 235-77-81</a> <br />
+						Телефон: <a href="tel:+380672357781">+38 067 235-77-81</a> <br />
 						E-mail: <a href="mailto:r.gaydar@sharon.com.ua">r.gaydar@sharon.com.ua</a>
 					</p>
 					<!--/.contact-info-details-->
