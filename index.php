@@ -99,7 +99,7 @@
 							<a href="<?php echo HOST; ?>/#metricSys" title="Метрическая система">Метрическая система</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
+							<a href="<?php echo HOST; ?>/#partners" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
 						</li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
 							<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
@@ -147,7 +147,7 @@
 						<a href="<?php echo HOST; ?>/#metricSys" title="Метрическая система">Метрическая система</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
-						<a href="<?php echo HOST; ?>/#contact" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
+						<a href="<?php echo HOST; ?>/#partners" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a>
 					</li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom">
 						<a href="<?php echo HOST; ?>/#contact" title="Грузовые автомобили">Грузовые автомобили</a>
@@ -1104,7 +1104,7 @@
 </section>
 <!--/section-->
 
-<section class="has-padding" id="testimonials">
+<section class="has-padding" id="partners">
 	<div class="container">
 		<div class="row">
 			<div class="text-center">
@@ -1357,10 +1357,10 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div> <!-- ? -->
+				<div> <!-- ПАО &quot;Мироновский хлебопродукт&quot; -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>mhp2.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1368,7 +1368,7 @@
 								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ПАО &quot;Мироновский хлебопродукт&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1376,10 +1376,10 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div> <!-- ? -->
+				<div> <!-- ПСП &quot;Перемога&quot; -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>peremoga.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1387,7 +1387,7 @@
 								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ПСП &quot;Перемога&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1395,10 +1395,10 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div> <!-- ? -->
+				<div> <!-- rambus.jpg -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+							<img class="testimonials-picture" src="<?php echo IMG; ?>rambus.jpg">
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1406,7 +1406,7 @@
 								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ПРАТ &quot;РАМБУРС&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1414,10 +1414,10 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div> <!-- ? -->
+				<div> <!-- without_photo1 -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+							<!-- <img class="testimonials-picture" src="<?php echo IMG; ?>?"> -->
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1425,7 +1425,25 @@
 								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ТОВ &quot;Ранок&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Регион-Юртрейд&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Саргон Україна&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Си Эйч Эс Украина&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Співдружність&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Будстандарт&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ПСП &quot;Глорія&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1433,10 +1451,10 @@
 					</div>
 					<!--/.media-->
 				</div>
-				<div> <!-- ? -->
+				<div> <!-- without_photo2 -->
 					<div class="media">
 						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
+							<!-- <img class="testimonials-picture" src="<?php echo IMG; ?>?"> -->
 						</div>
 						<!--/.media-left.media-middle-->
 						<div class="media-body">
@@ -1444,102 +1462,28 @@
 								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
 							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ТОВ &quot;Гранум інвест&quot;</span>
 							</div>
-							<!--/.media-heading-->
-						</div>
-						<!--/.media-body-->
-					</div>
-					<!--/.media-->
-				</div>
-				<div> <!-- ? -->
-					<div class="media">
-						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
-						</div>
-						<!--/.media-left.media-middle-->
-						<div class="media-body">
-							<p class="align-center">
-								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
-							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ПСМ &quot;Злагода&quot;</span>
 							</div>
-							<!--/.media-heading-->
-						</div>
-						<!--/.media-body-->
-					</div>
-					<!--/.media-->
-				</div>
-				<div> <!-- ? -->
-					<div class="media">
-						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
-						</div>
-						<!--/.media-left.media-middle-->
-						<div class="media-body">
-							<p class="align-center">
-								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
-							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ТОВ &quot;Конотопский элеватор&quot;</span>
 							</div>
-							<!--/.media-heading-->
-						</div>
-						<!--/.media-body-->
-					</div>
-					<!--/.media-->
-				</div>
-				<div> <!-- ? -->
-					<div class="media">
-						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
-						</div>
-						<!--/.media-left.media-middle-->
-						<div class="media-body">
-							<p class="align-center">
-								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
-							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ТОВ &quot;Торговий дім "Креатив-Розлив&quot;</span>
 							</div>
-							<!--/.media-heading-->
-						</div>
-						<!--/.media-body-->
-					</div>
-					<!--/.media-->
-				</div>
-				<div> <!-- ? -->
-					<div class="media">
-						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
-						</div>
-						<!--/.media-left.media-middle-->
-						<div class="media-body">
-							<p class="align-center">
-								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
-							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ТОВ &quot;Лани Драбівщини&quot;</span>
 							</div>
-							<!--/.media-heading-->
-						</div>
-						<!--/.media-body-->
-					</div>
-					<!--/.media-->
-				</div>
-				<div> <!-- ? -->
-					<div class="media">
-						<div class="media-top align-center">
-							<img class="testimonials-picture" src="<?php echo IMG; ?>?">
-						</div>
-						<!--/.media-left.media-middle-->
-						<div class="media-body">
-							<p class="align-center">
-								<!-- Работа с Pixova стала одним из лучших событий в моей жизни. Очень рекомендую этих ребят за их потрясающую поддержку. Lorem ipsum dolor sit amet lorem ipsum. -->
-							</p>
 							<div class="media-heading align-center">
-								<span class="mt-person-name">?</span>
+								<span class="mt-person-name">ТОВ &quot;Полігрейн агро&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Полтав Агро ЛТД&quot;</span>
+							</div>
+							<div class="media-heading align-center">
+								<span class="mt-person-name">ТОВ &quot;Прилуцьке хлібоприймальне підприємство&quot;</span>
 							</div>
 							<!--/.media-heading-->
 						</div>
@@ -1547,7 +1491,6 @@
 					</div>
 					<!--/.media-->
 				</div>
-
 
 			</div>
 			<!--/owl-carousel-->
@@ -1557,183 +1500,7 @@
 	<!--/.container-->
 </section>
 <!--/ SECTION -->
-<section class="has-padding" id="news">
-	<div class="container">
-		<div class="row">
-			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Последние новости<span>Прямо с нашего блога</span></h2>
-			</div>
-			<!--/.text-center-->
-		</div>
-		<!--/.row-->
-		<div class="row">
-			<div class="mt-blog-posts text-center">
-				<div class="row">
-					<div class="mt-blogpost-wrapper col-xs-12">
-						<div class="col-md-3 col-sm-6 col-xs-12">
-							<div class="thumbnail">
-								<div class="entry-featured-image">
-									<a href="http://www.sharon.com.ua/wp/2015/11/26/hello-world/">
-										<img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/blog-defaults/rand-6.jpg" width="250" height="250" >
-									</a>
-								</div>
-								<div class="caption">
-									<div class="mt-date">Ноябрь 26, 2015</div>
-									<a class="mt-blogpost-title" href="http://www.sharon.com.ua/wp/2015/11/26/hello-world/">Hello world!</a>
-									<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-									<p></p>
-								</div>
-								<!--/.caption-->
-							</div>
-							<!--/.thumbnail-->
-						</div> 
-						<!--/.col-sm-6.col-md-4-->
-					</div> 
-					<!--/.mt-blogpost-wrapper-->
-				</div>
-				<!--/.row-->
-			</div>
-			<!--/.mt-blog-posts-->
-		</div>
-		<!--/.row-->
-	</div>
-	<!--/.container-->
-</section>
-<section class="has-padding" id="team">
-	<div class="container">
-		<div class="row">
-			<div class="text-center">
-				<h2 class="section-heading light-section-heading">Команда<span>Познакомьтесь с людьми, которые воплотили это в жизнь.</span></h2>
-			</div>
-			<!--/.text-center-->
-		</div>
-		<!--/.row-->
-		<div class="row align-center">
-			<div class="mt-team">
-				<img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru-150x150.jpg">
-				<div class="mt-team-member-name">Джон Доу</div>
-				<!--/.mt-team-member-name-->
-				<div class="mt-team-description">
-					<div class="mt-team-member-icons">
-						<div class="mt-team-member-icon">
-							<a rel="nofollow" href="https://www.facebook.com/machothemes/">
-								<i class="fa fa-facebook-official"></i>
-							</a>
-						</div>
-						<!--/.mt-team-member-icon-->
-						<div class="mt-team-member-icon">
-							<a rel="nofollow" href="http://www.dribbble.com/">
-								<i class="fa fa-dribbble"></i>
-							</a>
-						</div>
-						<!--/.mt-team-member-icon-->
-					</div>
-					<!--/.mt-team-member-icons-->
-				</div>
-				<!--/.mt-team-description-->
-			</div> 
-			<!--/.mt-team-->
-			<div class="mt-team">
-				<img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru2-150x150.jpg">
-				<div class="mt-team-member-name">Джон Доу</div>
-				<!--/.mt-team-member-name-->
-				<div class="mt-team-description">
-					<div class="mt-team-member-icons">
-						<div class="mt-team-member-icon">
-							<a rel="nofollow" href="https://www.facebook.com/machothemes/">
-								<i class="fa fa-facebook-official"></i>
-							</a>
-						</div>
-						<!--/.mt-team-member-icon-->
-						<div class="mt-team-member-icon">
-							<a rel="nofollow" href="http://www.dribbble.com/">
-								<i class="fa fa-dribbble"></i>
-							</a>
-						</div>
-						<!--/.mt-team-member-icon-->
-					</div>
-					<!--/.mt-team-member-icons-->
-				</div>
-				<!--/.mt-team-description-->
-			</div> 
-			<!--/.mt-team-->
-			<div class="mt-team">
-				<img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru-150x150.jpg">
-				<div class="mt-team-member-name">Джон Доу</div>
-				<!--/.mt-team-member-name-->
-				<div class="mt-team-description">
-					<div class="mt-team-member-icons">
-						<div class="mt-team-member-icon">
-							<a rel="nofollow" href="https://www.facebook.com/machothemes/">
-								<i class="fa fa-facebook-official"></i>
-							</a>
-						</div>
-						<!--/.mt-team-member-icon-->
-						<div class="mt-team-member-icon"><a rel="nofollow" href="http://www.dribbble.com/">
-							<i class="fa fa-dribbble"></i>
-						</a>
-					</div>
-					<!--/.mt-team-member-icon-->
-				</div>
-				<!--/.mt-team-member-icons-->
-			</div>
-			<!--/.mt-team-description-->
-		</div> 
-		<!--/.mt-team-->
-		<div class="mt-team">
-			<img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru2-150x150.jpg">
-			<div class="mt-team-member-name">Джон Доу</div>
-			<!--/.mt-team-member-name-->
-			<div class="mt-team-description">
-				<div class="mt-team-member-icons">
-					<div class="mt-team-member-icon">
-						<a rel="nofollow" href="https://www.facebook.com/machothemes/">
-							<i class="fa fa-facebook-official"></i>
-						</a>
-					</div>
-					<!--/.mt-team-member-icon-->
-					<div class="mt-team-member-icon">
-						<a rel="nofollow" href="http://www.dribbble.com/">
-							<i class="fa fa-dribbble"></i>
-						</a>
-					</div>
-					<!--/.mt-team-member-icon-->
-				</div>
-				<!--/.mt-team-member-icons-->
-			</div>
-			<!--/.mt-team-description-->
-		</div> 
-		<!--/.mt-team-->
-		<div class="mt-team">
-			<img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru-150x150.jpg">
-			<div class="mt-team-member-name">Джон Доу</div>
-			<!--/.mt-team-member-name-->
-			<div class="mt-team-description">
-				<div class="mt-team-member-icons">
-					<div class="mt-team-member-icon">
-						<a rel="nofollow" href="https://www.facebook.com/machothemes/">
-							<i class="fa fa-facebook-official"></i>
-						</a>
-					</div>
-					<!--/.mt-team-member-icon-->
-					<div class="mt-team-member-icon">
-						<a rel="nofollow" href="http://www.dribbble.com/">
-							<i class="fa fa-dribbble"></i>
-						</a>
-					</div>
-					<!--/.mt-team-member-icon-->
-				</div>
-				<!--/.mt-team-member-icons-->
-			</div>
-			<!--/.mt-team-description-->
-		</div> 
-		<!--/.mt-team-->
-	</div>
-	<!--/.row-->
-</div>
-<!--/.container-->
-</section>
-<!--/ SECTION -->
+
 <section class="has-padding" id="contact">
 	<div class="container">
 		<div class="row">
@@ -1774,7 +1541,9 @@
 			<!--/.row-->
 		</div>
 		<!--/.col-md-9-->
-	</section>
+	</div>
+	<!-- .container -->
+</section>
 
 </div><!-- #content -->
 

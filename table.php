@@ -467,3 +467,181 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   </body>
 </html>
+<!-- 2 section from index.php -->
+<section class="has-padding" id="news">
+  <div class="container">
+    <div class="row">
+      <div class="text-center">
+        <h2 class="section-heading light-section-heading">Последние новости<span>Прямо с нашего блога</span></h2>
+      </div>
+      <!--/.text-center-->
+    </div>
+    <!--/.row-->
+    <div class="row">
+      <div class="mt-blog-posts text-center">
+        <div class="row">
+          <div class="mt-blogpost-wrapper col-xs-12">
+            <div class="col-md-3 col-sm-6 col-xs-12">
+              <div class="thumbnail">
+                <div class="entry-featured-image">
+                  <a href="http://www.sharon.com.ua/wp/2015/11/26/hello-world/">
+                    <img src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/blog-defaults/rand-6.jpg" width="250" height="250" >
+                  </a>
+                </div>
+                <div class="caption">
+                  <div class="mt-date">Ноябрь 26, 2015</div>
+                  <a class="mt-blogpost-title" href="http://www.sharon.com.ua/wp/2015/11/26/hello-world/">Hello world!</a>
+                  <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+                  <p></p>
+                </div>
+                <!--/.caption-->
+              </div>
+              <!--/.thumbnail-->
+            </div> 
+            <!--/.col-sm-6.col-md-4-->
+          </div> 
+          <!--/.mt-blogpost-wrapper-->
+        </div>
+        <!--/.row-->
+      </div>
+      <!--/.mt-blog-posts-->
+    </div>
+    <!--/.row-->
+  </div>
+  <!--/.container-->
+</section>
+<section class="has-padding" id="team">
+  <div class="container">
+    <div class="row">
+      <div class="text-center">
+        <h2 class="section-heading light-section-heading">Команда<span>Познакомьтесь с людьми, которые воплотили это в жизнь.</span></h2>
+      </div>
+      <!--/.text-center-->
+    </div>
+    <!--/.row-->
+    <div class="row align-center">
+      <div class="mt-team">
+        <img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru-150x150.jpg">
+        <div class="mt-team-member-name">Джон Доу</div>
+        <!--/.mt-team-member-name-->
+        <div class="mt-team-description">
+          <div class="mt-team-member-icons">
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="https://www.facebook.com/machothemes/">
+                <i class="fa fa-facebook-official"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="http://www.dribbble.com/">
+                <i class="fa fa-dribbble"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+          </div>
+          <!--/.mt-team-member-icons-->
+        </div>
+        <!--/.mt-team-description-->
+      </div> 
+      <!--/.mt-team-->
+      <div class="mt-team">
+        <img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru2-150x150.jpg">
+        <div class="mt-team-member-name">Джон Доу</div>
+        <!--/.mt-team-member-name-->
+        <div class="mt-team-description">
+          <div class="mt-team-member-icons">
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="https://www.facebook.com/machothemes/">
+                <i class="fa fa-facebook-official"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="http://www.dribbble.com/">
+                <i class="fa fa-dribbble"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+          </div>
+          <!--/.mt-team-member-icons-->
+        </div>
+        <!--/.mt-team-description-->
+      </div> 
+      <!--/.mt-team-->
+      <div class="mt-team">
+        <img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru-150x150.jpg">
+        <div class="mt-team-member-name">Джон Доу</div>
+        <!--/.mt-team-member-name-->
+        <div class="mt-team-description">
+          <div class="mt-team-member-icons">
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="https://www.facebook.com/machothemes/">
+                <i class="fa fa-facebook-official"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+            <div class="mt-team-member-icon"><a rel="nofollow" href="http://www.dribbble.com/">
+              <i class="fa fa-dribbble"></i>
+            </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+          </div>
+          <!--/.mt-team-member-icons-->
+        </div>
+        <!--/.mt-team-description-->
+      </div> 
+      <!--/.mt-team-->
+      <div class="mt-team">
+        <img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru2-150x150.jpg">
+        <div class="mt-team-member-name">Джон Доу</div>
+        <!--/.mt-team-member-name-->
+        <div class="mt-team-description">
+          <div class="mt-team-member-icons">
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="https://www.facebook.com/machothemes/">
+                <i class="fa fa-facebook-official"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="http://www.dribbble.com/">
+                <i class="fa fa-dribbble"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+          </div>
+          <!--/.mt-team-member-icons-->
+        </div>
+        <!--/.mt-team-description-->
+      </div> 
+      <!--/.mt-team-->
+      <div class="mt-team">
+        <img class="mt-team-img" src="http://www.sharon.com.ua/wp/wp-content/themes/pixova-lite/layout/images/team/teammembru-150x150.jpg">
+        <div class="mt-team-member-name">Джон Доу</div>
+        <!--/.mt-team-member-name-->
+        <div class="mt-team-description">
+          <div class="mt-team-member-icons">
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="https://www.facebook.com/machothemes/">
+                <i class="fa fa-facebook-official"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+            <div class="mt-team-member-icon">
+              <a rel="nofollow" href="http://www.dribbble.com/">
+                <i class="fa fa-dribbble"></i>
+              </a>
+            </div>
+            <!--/.mt-team-member-icon-->
+          </div>
+          <!--/.mt-team-member-icons-->
+        </div>
+        <!--/.mt-team-description-->
+      </div> 
+      <!--/.mt-team-->
+    </div>
+    <!--/.row-->
+  </div>
+  <!--/.container-->
+</section>
+<!--/ SECTION -->
