@@ -49,17 +49,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='http://1lk.com.ua/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='plk-style-css'  href='http://1lk.com.ua/wp-content/themes/virtue/style.css?ver=4.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='kadence_theme-css'  href='http://1lk.com.ua/wp-content/themes/virtue/assets/css/virtue.css?ver=247' type='text/css' media='all' />
-<link rel='stylesheet' id='virtue_skin-css'  href='http://1lk.com.ua/wp-content/themes/virtue/assets/css/skins/default.css' type='text/css' media='all' />
-<link rel='stylesheet' id='redux-google-fonts-virtue-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=1432737196' type='text/css' media='all' />
-<script type='text/javascript' src='http://1lk.com.ua/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-<script type='text/javascript' src='http://1lk.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://1lk.com.ua/wp-content/themes/virtue/assets/js/vendor/modernizr.min.js'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://1lk.com.ua/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://1lk.com.ua/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.2.6" />
+<link rel='stylesheet' id='contact-form-7-css'  href='css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='plk-style-css'  href='css/style.css?ver=4.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='kadence_theme-css'  href='css/virtue.css?ver=247' type='text/css' media='all' />
+<link rel='stylesheet' id='virtue_skin-css'  href='css/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-virtue-css'  href='css/css?family=Lato%3A400%2C700&#038;ver=1432737196' type='text/css' media='all' />
+<script type='text/javascript' src='js/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='js/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='js/modernizr.min.js'></script>
+<!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://1lk.com.ua/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://1lk.com.ua/wp-includes/wlwmanifest.xml" />  -->
+<!-- <meta name="generator" content="WordPress 4.2.6" /> -->
 <style type="text/css">#logo {padding-top:25px;}#logo {padding-bottom:10px;}#logo {margin-left:0px;}#logo {margin-right:0px;}#nav-main {margin-top:40px;}#nav-main {margin-bottom:10px;}.headerfont, .tp-caption {font-family:Lato;} 
   .topbarmenu ul li {font-family:Lato;}
   #kadbreadcrumbs {font-family:Verdana, Geneva, sans-serif;}.product_item .product_details h5 {text-transform: none;}.product_item .product_details h5 {min-height:40px;}</style><!--[if lt IE 9]>
@@ -89,7 +89,7 @@ img.emoji {
             <div id="logo" class="logocase">
               <a class="brand logofont" href="http://1lk.com.ua/">
                                   <div id="thelogo">
-                    <img src="http://1lk.com.ua/wp-content/uploads/2015/05/logo_big_ru1.png" alt="ООО «Первая Логистическая Компания»" class="kad-standard-logo" />
+                    <img src="images/logo_big_ru1.png" alt="ООО «Первая Логистическая Компания»" class="kad-standard-logo" />
                                       </div>
                               </a>
                          </div> <!-- Close #logo -->
@@ -209,7 +209,7 @@ img.emoji {
             	<div id="plkCarousel" class="carousel slide">
 	<div class="carousel-inner">      
 		<div class="item active">
-			<img width="940" height="370" src="http://1lk.com.ua/wp-content/uploads/2013/06/slide1n2-e1376418541272.jpg" class="attachment-thumbnail wp-post-image" alt="slide1n2" />		
+			<img width="940" height="370" src="images/slide1n2-e1376418541272.jpg" class="attachment-thumbnail wp-post-image" alt="slide1n2" />		
 			<div class="disclaimer">
 				<h1>Новый уровень транспортно-логистических услуг</h1>
 				<p><p><strong>ООО «Первая Логистическая Компания» &#8211; одна из ведущих компаний на рынке Украины, предоставляющая логистические услуги.</p>
@@ -218,7 +218,7 @@ img.emoji {
 			</div>
 		</div>
 		<div class="item ">
-			<img width="940" height="370" src="http://1lk.com.ua/wp-content/uploads/2013/06/slide2n6.jpg" class="attachment-thumbnail wp-post-image" alt="slide2n6" />		
+			<img width="940" height="370" src="images/slide2n6.jpg" class="attachment-thumbnail wp-post-image" alt="slide2n6" />		
 			<div class="disclaimer">
 				<h1>«Первая Логистическая Компания» – Ваш надежный партнер на рынке Украины</h1>
 				<p><p><strong>Мы гарантируем своим международным партнерам создание надежного транспортного коридора на территории Украины при транзитных перевозках грузов железнодорожным транспортом.</strong></p>
@@ -226,7 +226,7 @@ img.emoji {
 			</div>
 		</div>
 		<div class="item ">
-			<img width="940" height="370" src="http://1lk.com.ua/wp-content/uploads/2013/06/title_3.jpg" class="attachment-thumbnail wp-post-image" alt="title_3" />		
+			<img width="940" height="370" src="images/title_3.jpg" class="attachment-thumbnail wp-post-image" alt="title_3" />		
 			<div class="disclaimer">
 				<h1>Гибкая система тарификации услуг</h1>
 				<p><p><strong>Индивидуальный подход к каждому клиенту, гибкая система тарификации, возможность длительного и эффективного сотрудничества.</strong></p>
