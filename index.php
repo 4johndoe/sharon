@@ -1855,6 +1855,7 @@
 						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#markup" title="Маркировка грузов">Маркировка грузов</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#metricSys" title="Метрическая система">Метрическая система</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#partners" title="Партнеры &amp; клиенты">Партнеры &amp; клиенты</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="http://www.ameu.org.ua/index.php?id=7" target="_blank" rel="nofollow" title="Новости от AMEU">Новости от AMEU</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#tracks" title="Грузовые автомобили">Грузовые автомобили</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#rules" title="Законодательство">Законодательство</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item"><a href="#contact" title="Контакты">Контакты</a></li>
