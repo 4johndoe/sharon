@@ -1891,10 +1891,10 @@
 </div>
 <!-- #page -->
 <a href="#" class="mt-top">Сверху</a>
-<script type='text/javascript' src='http://www.sharon.com.ua/wp/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript'>
 	/* <![CDATA[ */
-	var _wpcf7 = {"loaderUrl":"http:\/\/www.sharon.com.ua\/wp\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
+	var _wpcf7 = {"loaderUrl":"\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430..."};
 	/* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1'></script>
